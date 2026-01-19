@@ -1,0 +1,25 @@
+{
+  "name": "ambitopia-dark-theme",
+  "displayName": "Ambitopia",
+  "description": "A dark VS Code/VSCodium theme featuring my Ambitopia color scheme.",
+  "version": "1.0.0",
+  "publisher": "yannnovak",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ambitopia [yellow]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ambitopia-yellow.json"
+      },
+      {
+        "label": "Ambitopia [red]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ambitopia-red.json"
+      }
+    ]
+  }
+}

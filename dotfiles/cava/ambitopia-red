@@ -1,0 +1,14 @@
+# ============================================
+# Ambitopia [red]
+# ============================================
+
+[color]
+
+background = default
+foreground = '#F22613'
+
+gradient = 1
+
+gradient_color_1 = '#C5003C'
+gradient_color_2 = '#F22613'
+gradient_color_3 = '#ffffff'

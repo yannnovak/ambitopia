@@ -1,0 +1,21 @@
+{
+    "author": "Yann Novak",
+    "authorUsername": "yannnovak",
+    "version": "1",
+    "name": "Ambitopia [red]",
+    "appearance": "dark",
+    "colors": {
+        "background": "#000000",
+        "backgroundSecondary": "#000000",
+        "text": "#e3e3e3",
+        "selection": "#ff0000",
+        "loader": "#ff0000",
+        "red": "#c5003c",
+        "orange": "#f9690e",
+        "yellow": "#fdf400",
+        "green": "#397979",
+        "blue": "#385a8c",
+        "purple": "#a537fd",
+        "magenta": "#f62459"
+    }
+}

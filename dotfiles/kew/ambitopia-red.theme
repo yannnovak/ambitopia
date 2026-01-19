@@ -1,0 +1,60 @@
+# ============================================
+# Ambitopia [red]
+# ============================================
+
+[theme]
+name=Ambitopia [red]
+author=Yann Novak
+
+# Core Colors
+accent=#f22613
+text=#ffffff
+textDim=#E3E3E3
+textMuted=#999999
+
+# General Colors
+logo=#f22613
+header=#f22613
+footer=#999999
+help=#e61e5b
+link=#ffffff
+nowplaying=#e61e5b
+
+# Playlist View
+playlist.rownum=#ffffff
+playlist.title=#ffffff
+playlist.playing=#f22613
+
+# Track View
+trackview.title=#f22613
+trackview.artist=#ffffff
+trackview.album=#ffffff
+trackview.year=#ffffff
+trackview.time=#e3e3e3
+trackview.visualizer=#f22613
+trackview.lyrics=#e3e3e3
+
+# Library View
+library.artist=#f22613
+library.album=#ffffff
+library.track=#ffffff
+library.enqueued=#ffffff
+library.playing=#f22613
+
+# Search
+search.label=#ffffff
+search.query=#ffffff
+search.result=#e3e3e3
+search.enqueued=#e3e3e3
+search.playing=#f22613
+
+# Progress
+progress.filled=#f22613
+progress.empty=#999999
+progress.elapsed=#f22613
+
+# Status
+status.info=-1
+status.warning=#F9690E
+status.error=#C5003C
+status.success=#397979

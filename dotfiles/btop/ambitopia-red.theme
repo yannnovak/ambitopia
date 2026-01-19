@@ -1,0 +1,87 @@
+# ============================================
+# Ambitopia [red]
+# ============================================
+
+# Main background
+theme[main_bg]=""
+
+# Main text color
+theme[main_fg]="#e3e3e3"
+
+# Title color for boxes
+theme[title]="#ffffff"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#f22613"
+
+# Background color of selected item in processes box
+theme[selected_bg]=""
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#36ebf2"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#e3e3e3"
+
+# Color of text appearing on top of graphs
+theme[graph_text]="#ffffff"
+
+# Background color of the percentage meters
+theme[meter_bg]="#030408"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#ffffff"
+
+# CPU, Memory, Network, Proc box outline colors
+theme[cpu_box]="#f22613"
+theme[mem_box]="#f22613"
+theme[net_box]="#f22613"
+theme[proc_box]="#f22613"
+
+# Box divider line and small boxes line color
+theme[div_line]="#f22613"
+
+# Temperature graph color
+theme[temp_start]="#385a8c"
+theme[temp_mid]="#fdf400"
+theme[temp_end]="#c5003c"
+
+# CPU graph colors
+theme[cpu_start]="#385a8c"
+theme[cpu_mid]="#55ead4"
+theme[cpu_end]="#fdf400"
+
+# Mem/Disk free meter
+theme[free_start]="#385a8c"
+theme[free_mid]="#55ead4"
+theme[free_end]="#fdf400"
+
+# Mem/Disk cached meter
+theme[cached_start]="#55ead4"
+theme[cached_mid]="#fdf400"
+theme[cached_end]="#c5003c"
+
+# Mem/Disk available meter
+theme[available_start]="#fdf400"
+theme[available_mid]="#f9690e"
+theme[available_end]="#c5003c"
+
+# Mem/Disk used meter
+theme[used_start]="#385a8c"
+theme[used_mid]="#fdf400"
+theme[used_end]="#c5003c"
+
+# Download graph colors
+theme[download_start]="#385a8c"
+theme[download_mid]="#397979"
+theme[download_end]="#fdf400"
+
+# Upload graph colors
+theme[upload_start]="#fdf400"
+theme[upload_mid]="#f9690e"
+theme[upload_end]="#c5003c"
+
+# Process box color gradient for threads, mem and cpu usage
+theme[process_start]="#fdf400"
+theme[process_mid]="#397979"
+theme[process_end]="#c5003c"

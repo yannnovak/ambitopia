@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# ============================================
+# Ambitopia [red]
+# ============================================
+
+options=(
+	style=round
+	width=5.0
+	hidpi=on
+	active_color=0xfff22613
+	inactive_color=0x00000000
+    blacklist="Finder,System Settings"
+)
+borders "${options[@]}"

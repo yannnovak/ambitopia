@@ -1,0 +1,62 @@
+# ============================================
+# Ambitopia [yellow]
+# ============================================
+
+# UI Elements
+color-link default "#d4d4d4"
+color-link cursor-line "#17181c"
+color-link statusline "#030408,#fdf400"
+color-link tabbar "#030408,#fdf400"
+color-link indent-char "#343b46"
+color-link line-number "#444c58"
+color-link current-line-number "#fdf400"
+color-link color-column "#17181c"
+
+# Strings
+color-link constant.string "#FCD670"
+color-link constant.string.char "#FCD670"
+
+# Constants & Numbers
+color-link constant "#55EAD4"
+color-link constant.number "#55EAD4"
+color-link constant.bool "#55EAD4"
+
+# Comments
+color-link comment "#777777"
+color-link todo "#777777"
+
+# Keywords & Storage
+color-link keyword "#E61E5B"
+color-link statement "#E61E5B"
+color-link preproc "#E61E5B"
+color-link type.keyword "#E61E5B"
+color-link special "#E61E5B"
+
+# Functions & Methods
+color-link identifier.function "#89B9E1"
+color-link identifier.class "#89B9E1"
+color-link type "#89B9E1"
+
+# Variables
+color-link identifier "#FCD670"
+color-link identifier.var "#FCD670"
+
+# Symbols & Punctuation
+color-link symbol "#d6d6d6"
+color-link symbol.brackets "#cccece"
+color-link symbol.operator "#89B9E1"
+color-link symbol.tag "#89B9E1"
+
+# Special
+color-link type.extended "#E61E5B"
+color-link underlined "#FCAD7B"
+
+# Errors & Warnings
+color-link error "#E61E5B"
+color-link gutter-error "#E61E5B"
+color-link gutter-warning "#fdf400"
+
+# Diffs
+color-link diff-added "#7CA893"
+color-link diff-modified "#fdf400"
+color-link diff-deleted "#E61E5B"
