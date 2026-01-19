@@ -1,5 +1,7 @@
 # Installation Guide
 
+The setup guide for Ambitopia is terminal-centric, which can be scary for some macOS users, so I tried to make it as approachable as possible.
+
 ## Prerequisites
 
 ### 01. Install Homebrew
@@ -39,6 +41,10 @@ Configure macOS appearance settings:
 - Appearance: **Dark**
 - Accent color: **Yellow** or **Red** (match your theme variant)
 - Highlight color: **Yellow** or **Red** (match your theme variant)
+
+Set wallpaper:
+
+Navigate to `assets/wallpapers/`, choose your resolution folder, then right-click on your variant → **Set as Desktop Picture**
 
 ## Installing Themes
 

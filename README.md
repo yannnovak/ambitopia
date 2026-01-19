@@ -69,7 +69,7 @@ The resulting design system exists in the space between accepting Apple's impose
 
 The two color variants serve different sides of my creative practice. Yellow is used on my desktop where I do office and development work. Red is used on my laptop, which is almost exclusively for music production in the studio. Each environment gets its own accent color that greatly sways its feel in one direction or the other, while maintaining the core Ambitopia design system.
 
-## Dotfiles & Themes
+## Dotfiles, Themes, and Assets
 
 ### Dotfiles
 
@@ -91,40 +91,14 @@ The two color variants serve different sides of my creative practice. Yellow is 
 - [Vivaldi](themes/vivaldi/README.md) - Browser
 - [VSCode/VSCodium](themes/vscode/README.md) - Editor
 
+### Desktop
+- [Wallpaper](assets/wallpaper/README.md) - Desktop background images
+
 ## Installation
 
 **Getting started:** Follow the [Installation Guide](INSTALL.md) for complete setup instructions.
 
 **Modular installation:** See individual app READMEs for standalone setup—use what you need, skip the rest.
-
-## Desktop Wallpapers
-
-<table>
-    <tr>
-        <td>
-            <img src="./assets/wallpaper/thumbnails/ambitopia-yellow-thumb.jpg" alt="Yellow variant wallpaper">
-            <p align="center">
-                Yellow Variant
-            </p>
-        </td>
-        <td>
-            <img src="./assets/wallpaper/thumbnails/ambitopia-red-thumb.jpg" alt="Red variant wallpaper">
-            <p align="center">
-                Red Variant
-            </p>
-        </td>
-    </tr>
-</table>
-
-Full-resolution wallpapers are included in `assets/wallpapers/`.
-
-**Provided formats:**
-- JPG
-- PNG
-
-**Supported resolutions:**
-- [5120x2880](assets/wallpapers/5120x2880/)
-- [3456x2234](assets/wallpapers/3456x2234/)
 
 ## Related Projects
 

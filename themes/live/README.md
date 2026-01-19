@@ -1,6 +1,6 @@
 # Ableton Live
 
-Making a custom theme for Live has been on my bucket list. Really happy I got this one started, but as I use it I suspect I will refine it further.
+Making a custom theme for Live has been on my bucket list. Really happy I got this one started, but as I use it I suspect I will refine it further. The track colors Live or a user can assign cannot be changed, so I left the colors I had been using in the previous theme for the preview.
 
 ## Preview
 
