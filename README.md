@@ -69,7 +69,7 @@ The resulting design system exists in the space between accepting Apple's impose
 
 The two color variants serve different sides of my creative practice. Yellow is used on my desktop where I do office and development work. Red is used on my laptop, which is almost exclusively for music production in the studio. Each environment gets its own accent color that greatly sways its feel in one direction or the other, while maintaining the core Ambitopia design system.
 
-## Dotfiles, Themes, and Assets
+## Dotfiles, Themes, & Assets
 
 ### Dotfiles
 
