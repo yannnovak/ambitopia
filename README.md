@@ -6,45 +6,49 @@ A modular design system of dotfiles and themes for macOS featuring a dark palett
 
 ## Showcase
 
+### Yellow Variant
+
 ![Screenshot with yellow wallpaper and showing VSCodium, Fastfetch, and Btop](./assets/showcase/ambitopia-yellow-01.png)
 
 <p align="center">
-    <b>Yellow Variant:</b> VSCodium, Fastfetch, Btop
+    VSCodium, Fastfetch, Btop
 </p>
 <br>
 
 ![Screenshot with yellow wallpaper and showing Micro, Kew, and Standard Notes](./assets/showcase/ambitopia-yellow-02.png)
 
 <p align="center">
-    <b>Yellow Variant:</b> Micro, Kew, Standard Notes
+    Micro, Kew, Standard Notes
 </p>
 <br>
 
 ![Screenshot with yellow wallpaper and showing Thunderbird, Cava, and Cmatrix](./assets/showcase/ambitopia-yellow-03.png)
 
 <p align="center">
-    <b>Yellow Variant:</b> Thunderbird, Cava, Cmatrix
+    Thunderbird, Cava, Cmatrix
 </p>
 <br>
+
+### Red Variant
 
 ![Screenshot with red wallpaper and showing VSCodium, Fastfetch, and Btop](./assets/showcase/ambitopia-red-01.png)
 
 <p align="center">
-    <b>Red Variant:</b> VSCodium, Fastfetch, Btop
+    VSCodium, Fastfetch, Btop
 </p>
 <br>
 
 ![Screenshot with red wallpaper and showing Micro, Kew, and Standard Notes](./assets/showcase/ambitopia-red-02.png)
 
 <p align="center">
-    <b>Red Variant:</b> Micro, Kew, Standard Notes
+    Micro, Kew, Standard Notes
 </p>
 <br>
 
 ![Screenshot with red wallpaper and showing Thunderbird, Cava, and Cmatrix](./assets/showcase/ambitopia-red-03.png)
 
 <p align="center">
-    <b>Red Variant:</b> Thunderbird, Cava, Cmatrix
+    Thunderbird, Cava, Cmatrix
 </p>
 
 ## What's Inside
@@ -95,9 +99,22 @@ The two color variants serve different sides of my creative practice. Yellow is 
 
 ## Desktop Wallpapers
 
-| Yellow Variant | Red Variant |
-|----------------|-------------|
-| ![Yellow variant wallpaper](./assets/wallpaper/thumbnails/ambitopia-yellow-thumb.jpg) | ![Red variant wallpaper](./assets/wallpaper/thumbnails/ambitopia-red-thumb.jpg) |
+<table>
+    <tr>
+        <td>
+            <img src="./assets/wallpaper/thumbnails/ambitopia-yellow-thumb.jpg" alt="Yellow variant wallpaper">
+            <p align="center">
+                Yellow Variant
+            </p>
+        </td>
+        <td>
+            <img src="./assets/wallpaper/thumbnails/ambitopia-red-thumb.jpg" alt="Red variant wallpaper">
+            <p align="center">
+                Red Variant
+            </p>
+        </td>
+    </tr>
+</table>
 
 Full-resolution wallpapers are included in `assets/wallpapers/`.
 
