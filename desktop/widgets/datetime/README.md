@@ -29,15 +29,23 @@ A minimal date and time widget for Übersicht felt like the perfect entry point 
 brew install --cask ubersicht
 ```
 
-### 02. Copy widget files
+### 02. Copy widget file
+
+Choose your variant and copy the corresponding file:
+
+**For yellow variant:**
 ```sh
 cp desktop/widgets/datetime/ambitopia-datetime-yellow.jsx ~/Library/Application\ Support/Übersicht/widgets/
+```
+
+**For red variant:**
+```sh
 cp desktop/widgets/datetime/ambitopia-datetime-red.jsx ~/Library/Application\ Support/Übersicht/widgets/
 ```
 
 ### 03. Enable your variant
 
-Click the Übersicht menu bar icon and you'll see both widgets listed. Enable only one:
+Click the Übersicht menu bar icon and you'll see the widget listed. Enable the one you chose if it's not already enabled:
 
 - **For yellow variant:** Enable `ambitopia-datetime-yellow.jsx`
 - **For red variant:** Enable `ambitopia-datetime-red.jsx`
