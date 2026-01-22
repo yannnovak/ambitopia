@@ -27,7 +27,14 @@ cp SpaceMono/*.ttf ~/Library/Fonts/
 rm -rf SpaceMono SpaceMono.zip
 ```
 
-### 05. Clone this repository
+### 05. Install Ndot 57 Font
+```sh
+git clone --depth 1 https://github.com/xeji01/nothingfont.git
+cp nothingfont/fonts/Ndot57-Regular.otf ~/Library/Fonts/
+rm -rf nothingfont
+```
+
+### 06. Clone this repository
 ```sh
 git clone https://github.com/yannnovak/ambitopia.git
 cd ambitopia
@@ -44,7 +51,7 @@ Configure macOS appearance settings:
 
 Set wallpaper:
 
-Navigate to `assets/wallpapers/`, choose your resolution folder, then right-click on your variant → **Set as Desktop Picture**
+Navigate to `desktop/wallpaper/`, choose your resolution folder, then right-click on your variant → **Set as Desktop Picture**
 
 ## Installing Themes
 
@@ -69,6 +76,10 @@ Each application has its own installation guide. Choose the ones you want to the
 - [Slack](themes/slack/README.md) - Messaging app
 - [Raycast](themes/raycast/README.md) - App launcher
 - [Live](themes/live/README.md) - Digital audio workstation
+
+### Widgets
+
+- [Datetime](desktop/widgets/datetime/README.md) - Desktop date/time widget
 
 ## Optional
 

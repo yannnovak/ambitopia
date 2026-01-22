@@ -8,21 +8,21 @@ A modular design system of dotfiles and themes for macOS featuring a dark palett
 
 ### Yellow Variant
 
-![Screenshot with yellow wallpaper and showing VSCodium, Fastfetch, and Btop](./assets/showcase/ambitopia-yellow-01.png)
+![Screenshot with yellow wallpaper and showing VSCodium, Fastfetch, and Btop](./assets/screenshots/ambitopia-yellow-01.png)
 
 <p align="center">
     VSCodium, Fastfetch, Btop
 </p>
 <br>
 
-![Screenshot with yellow wallpaper and showing Micro, Kew, and Standard Notes](./assets/showcase/ambitopia-yellow-02.png)
+![Screenshot with yellow wallpaper and showing Micro, Kew, and Standard Notes](./assets/screenshots/ambitopia-yellow-02.png)
 
 <p align="center">
     Micro, Kew, Standard Notes
 </p>
 <br>
 
-![Screenshot with yellow wallpaper and showing Thunderbird, Cava, and Cmatrix](./assets/showcase/ambitopia-yellow-03.png)
+![Screenshot with yellow wallpaper and showing Thunderbird, Cava, and Cmatrix](./assets/screenshots/ambitopia-yellow-03.png)
 
 <p align="center">
     Thunderbird, Cava, Cmatrix
@@ -31,21 +31,21 @@ A modular design system of dotfiles and themes for macOS featuring a dark palett
 
 ### Red Variant
 
-![Screenshot with red wallpaper and showing VSCodium, Fastfetch, and Btop](./assets/showcase/ambitopia-red-01.png)
+![Screenshot with red wallpaper and showing VSCodium, Fastfetch, and Btop](./assets/screenshots/ambitopia-red-01.png)
 
 <p align="center">
     VSCodium, Fastfetch, Btop
 </p>
 <br>
 
-![Screenshot with red wallpaper and showing Micro, Kew, and Standard Notes](./assets/showcase/ambitopia-red-02.png)
+![Screenshot with red wallpaper and showing Micro, Kew, and Standard Notes](./assets/screenshots/ambitopia-red-02.png)
 
 <p align="center">
     Micro, Kew, Standard Notes
 </p>
 <br>
 
-![Screenshot with red wallpaper and showing Thunderbird, Cava, and Cmatrix](./assets/showcase/ambitopia-red-03.png)
+![Screenshot with red wallpaper and showing Thunderbird, Cava, and Cmatrix](./assets/screenshots/ambitopia-red-03.png)
 
 <p align="center">
     Thunderbird, Cava, Cmatrix
@@ -92,7 +92,8 @@ The two color variants serve different sides of my creative practice. Yellow is 
 - [VSCode/VSCodium](themes/vscode/README.md) - Editor
 
 ### Desktop
-- [Wallpaper](assets/wallpaper/README.md) - Desktop background images
+- [DateTime Widget](desktop/widgets/datetime/README.md) - Date and time display
+- [Wallpaper](desktop/wallpaper/README.md) - Desktop background images
 
 ## Installation
 
@@ -131,10 +132,13 @@ ambitopia/
 │   ├── palette/          # Color swatches
 │   ├── screenshots/      # Individual app screenshots
 │   ├── showcase/         # Grouped app compositions
-│   └── wallpapers/
-│       ├── 3456x2234/    # Laptop resolutions
-│       ├── 5120x2880/    # Desktop resolutions
-│       └── thumbnails/
+│   └── thumbnails/       # Wallpaper thumbnails
+├── desktop/
+│   ├── wallpaper/
+│   │   ├── 3456x2234/    # Laptop resolutions
+│   │   └── 5120x2880/    # Desktop resolutions
+│   └── widgets/
+│       └── datetime/     # Date/time widget
 ├── dotfiles/
 │   ├── borders/          # Window borders
 │   ├── btop/             # System monitor
@@ -144,7 +148,7 @@ ambitopia/
 │   ├── kew/              # Music player
 │   └── micro/            # Terminal text editor
 ├── themes/
-│   ├── live/             # Ableton Live
+│   ├── live/             # DAW
 │   ├── raycast/          # App launcher
 │   ├── slack/            # Messaging app
 │   ├── standard-notes/   # Note-taking app

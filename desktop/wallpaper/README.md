@@ -7,13 +7,13 @@ For the Ambitopia wallpapers, I wanted something darkâ€”nearly black at the topâ
 <table>
     <tr>
         <td>
-            <img src="./thumbnails/ambitopia-yellow-thumb.jpg" alt="Yellow variant wallpaper">
+            <img src="../assets/thumbnails/ambitopia-yellow-thumb.jpg" alt="Yellow variant wallpaper">
             <p align="center">
                 Yellow Variant
             </p>
         </td>
         <td>
-            <img src="./thumbnails/ambitopia-red-thumb.jpg" alt="Red variant wallpaper">
+            <img src="../assets/thumbnails/ambitopia-red-thumb.jpg" alt="Red variant wallpaper">
             <p align="center">
                 Red Variant
             </p>
