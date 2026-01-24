@@ -38,9 +38,17 @@ kew
 
 Press `Esc` to exit.
 
-### 04. Copy theme files
+### 04. Copy theme file
+
+Choose your variant:
+
+**For yellow variant:**
 ```sh
 cp dotfiles/kew/ambitopia-yellow.theme ~/Library/Preferences/kew/
+```
+
+**For red variant:**
+```sh
 cp dotfiles/kew/ambitopia-red.theme ~/Library/Preferences/kew/
 ```
 
@@ -61,6 +69,5 @@ kew theme ambitopia-red
 kew
 ```
 
-## Notes
-
-Ghostty does not support how Kew displays album art, but I actually prefer it that way. The cover art swapping can be distracting, and the minimal layout with open space above the track details creates a cleaner, more focused listening experience.
+> [!NOTE]
+> Ghostty does not support how Kew displays album art, but I actually prefer it that way. The cover art swapping can be distracting, and the minimal layout with open space above the track details creates a cleaner, more focused listening experience.

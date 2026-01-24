@@ -21,7 +21,7 @@ I based my theme on one of the included themes, but I changed every color, so it
 
 ### 00. Before you start
 - Make sure Homebrew is installed ([install here](https://brew.sh))
-- See [Installation Guide](../../INSTALL.md) if you haven't set up prerequisites yet
+- If you skipped the Installation Guide, install Micro (instructions [here](../../INSTALL.md)) or follow the whole [Installation Guide](../../INSTALL.md)
 - [btop GitHub](https://github.com/aristocratos/btop)
 
 ### 01. Install btop
@@ -34,9 +34,17 @@ brew install btop
 mkdir -p ~/.config/btop/themes
 ```
 
-### 03. Copy theme files
+### 03. Copy theme file
+
+Choose your variant:
+
+**For yellow variant:**
 ```sh
 cp dotfiles/btop/ambitopia-yellow.theme ~/.config/btop/themes/
+```
+
+**For red variant:**
+```sh
 cp dotfiles/btop/ambitopia-red.theme ~/.config/btop/themes/
 ```
 

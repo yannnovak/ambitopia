@@ -39,6 +39,8 @@ Open Thunderbird Settings → Add-ons and Themes → Themes
 
 Click the gear icon (⚙) and select Install Add-on From File...
 
+Choose your variant:
+
 **For yellow variant:**
 Select `tb-ambitopia-yellow.xpi`
 
@@ -47,6 +49,6 @@ Select `tb-ambitopia-red.xpi`
 
 ### 04. Activate theme
 
-Select 'Add' and 'OK' when prompted.
+Click **Add** and **OK** when prompted.
 
 The imported theme should automatically activate. If not, click "Enable" next to the Ambitopia theme in the Themes list.

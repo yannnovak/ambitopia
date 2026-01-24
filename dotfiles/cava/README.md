@@ -21,7 +21,7 @@ I almost didn't include this because it's so fiddly for the Mac, but I was alrea
 
 ### 00. Before you start
 - Make sure Homebrew is installed ([install here](https://brew.sh))
-- See [Installation Guide](../../INSTALL.md) if you haven't set up prerequisites yet
+- If you skipped the Installation Guide, install Micro (instructions [here](../../INSTALL.md)) or follow the whole [Installation Guide](../../INSTALL.md)
 - [Cava GitHub](https://github.com/karlstav/cava)
 
 ### 01. Install Cava
@@ -34,31 +34,54 @@ brew install cava
 mkdir -p ~/.config/cava/themes
 ```
 
-### 03. Copy theme files
-```sh
-cp dotfiles/cava/ambitopia-yellow.conf ~/.config/cava/themes/
-cp dotfiles/cava/ambitopia-red.conf ~/.config/cava/themes/
-```
-
-### 04. Configure theme
-
-Edit `~/.config/cava/config` and add one of the following:
-
-**For yellow variant:**
-```
-theme = ambitopia-yellow.conf
-```
-
-**For red variant:**
-```
-theme = ambitopia-red.conf
-```
-
-### 05. Run Cava
+### 03. Launch cava to create config file
 ```sh
 cava
 ```
 
-## Notes
+### 04. Close cava
 
-Cava on macOS has some limitations compared to Linux. You will need to install a loopback device - there are detailed instructions with a few options [here](https://github.com/karlstav/cava). Once you choose one, you will need to configure your audio source manually in the config file.
+Press `Ctrl+C` or `q` to exit.
+
+### 05. Copy theme file
+
+Choose your variant:
+
+**For yellow variant:**
+```sh
+cp dotfiles/cava/ambitopia-yellow ~/.config/cava/themes/
+```
+
+**For red variant:**
+```sh
+cp dotfiles/cava/ambitopia-red ~/.config/cava/themes/
+```
+
+### 06. Set your theme variant
+
+Open the config file:
+```sh
+micro ~/.config/cava/config
+```
+
+Find the `theme` line and change it to your preferred variant:
+
+**For yellow variant:**
+```
+theme = 'ambitopia-yellow'
+```
+
+**For red variant:**
+```
+theme = 'ambitopia-red'
+```
+
+Save and close the file.
+
+### 07. Run Cava
+```sh
+cava
+```
+
+> [!NOTE]
+> Cava on macOS has some limitations compared to Linux. You will need to install a loopback device - there are detailed instructions with a few options [here](https://github.com/karlstav/cava). Once you choose one, you will need to configure your audio source manually in the config file.

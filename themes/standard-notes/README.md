@@ -34,7 +34,11 @@ brew install --cask standard-notes
 
 ### 02. Install theme
 
-Open "Plugins" in Standard Notes Preferences and enter one of the following URLs under "Install Custom Plugin", then click install.
+Go to Standard Notes Preferences → Plugins
+
+Enter the URL below under "Install Custom Plugin" and click install.
+
+Choose your variant:
 
 **For yellow variant:**
 ```
@@ -50,8 +54,7 @@ https://cdn.jsdelivr.net/gh/yannnovak/sn-ambitopia-red-theme@main/ext.json
 
 Go to Preferences → Appearance and select "Ambitopia" from the theme dropdown.
 
-## Notes
-
-Full theme source code and development files are available in the individual repositories:
-- [sn-ambitopia-yellow-theme](https://github.com/yannnovak/sn-ambitopia-yellow-theme)
-- [sn-ambitopia-red-theme](https://github.com/yannnovak/sn-ambitopia-red-theme)
+> [!NOTE]
+> Full theme source code and development files are available in the individual repositories:
+> - [sn-ambitopia-yellow-theme](https://github.com/yannnovak/sn-ambitopia-yellow-theme)
+> - [sn-ambitopia-red-theme](https://github.com/yannnovak/sn-ambitopia-red-theme)

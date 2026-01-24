@@ -21,7 +21,7 @@ A minimal date and time widget for Übersicht felt like the perfect entry point 
 
 ### 00. Before you start
 - Make sure Homebrew is installed ([install here](https://brew.sh))
-- If you skipped the Installation Guide, install SpaceMono Nerd Font and Ndot 57 (instructions [here](../../../INSTALL.md))
+- If you skipped the Installation Guide, install SpaceMono Nerd Font and Ndot 57 (instructions [here](../../INSTALL.md)) or follow the whole [Installation Guide](../../INSTALL.md)
 - [Übersicht Website](https://tracesof.net/uebersicht/)
 
 ### 01. Install Übersicht
@@ -31,7 +31,7 @@ brew install --cask ubersicht
 
 ### 02. Copy widget file
 
-Choose your variant and copy the corresponding file:
+Choose your variant:
 
 **For yellow variant:**
 ```sh

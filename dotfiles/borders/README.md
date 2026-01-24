@@ -21,8 +21,7 @@ I didn't know how much I needed this until I was using it. If I had a dollar for
 
 ### 00. Before you start
 - Make sure Homebrew is installed ([install here](https://brew.sh))
-- If you skipped the Installation Guide, install Micro (instructions [here](../../INSTALL.md))
-- See [Installation Guide](../../INSTALL.md) if you haven't set up prerequisites yet
+- If you skipped the Installation Guide, install Micro (instructions [here](../../INSTALL.md)) or follow the whole [Installation Guide](../../INSTALL.md)
 - [JankyBorders GitHub](https://github.com/FelixKratz/JankyBorders)
 
 ### 01. Install JankyBorders
@@ -38,14 +37,16 @@ mkdir -p ~/.config/borders
 
 ### 03. Copy theme file
 
+Choose your variant:
+
 **For yellow variant:**
 ```sh
-cp dotfiles/borders/bordersrc-yellow ~/.config/borders/bordersrc
+cp dotfiles/borders/yellow/bordersrc ~/.config/borders/bordersrc
 ```
 
 **For red variant:**
 ```sh
-cp dotfiles/borders/bordersrc-red ~/.config/borders/bordersrc
+cp dotfiles/borders/red/bordersrc ~/.config/borders/bordersrc
 ```
 
 ### 04. Configure blacklist (optional)

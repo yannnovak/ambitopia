@@ -1,5 +1,7 @@
 # Raycast
 
+Raycast's theming system provides 12 color values, but will automatically adjust them if it considers them "off brand", I almost did not include it because of this. I created these on a 2-week trial because you must have a paid subscription to use Raycast's Theme Studio and I already canceled because I was just not happy with the results enough to continue to pay.
+
 ## Preview
 
 ![Screenshot with yellow wallpaper and showing Raycast in yellow](../../assets/screenshots/raycast-yellow.png)
@@ -27,18 +29,25 @@
 brew install --cask raycast
 ```
 
-### 02. Manual theme configuration
+### 02. Configure theme colors
 
-Open Raycast Settings → General → Open Theme Studio, then manually configure the colors using the values from:
+Choose your variant:
 
-**For yellow variant:** [ambitopia-yellow.json](ambitopia-yellow.json)
+Open Raycast Settings → General → Open Theme Studio
 
-**For red variant:** [ambitopia-red.json](ambitopia-red.json)
+Manually enter the color values from:
+
+**Yellow variant:** [ambitopia-yellow.json](ambitopia-yellow.json)
+
+**Red variant:** [ambitopia-red.json](ambitopia-red.json)
 
 ### 03. Save the theme
 
-### 04. Leave the Theme Studio and select your new theme from the dropdown
+Click **Save** in the Theme Studio
 
-## Notes
+### 04. Apply your theme
 
-You must have a paid subscription to use Raycast's Theme Studio. I created these on a 2-week trial and may not keep it active due to the limitations. Raycast's theming system provides 12 color values, but will automatically adjust them if it considers them "off brand". The included JSON files are provided for reference only, as Raycast offers no import functionality. This barely qualifies as a theme, but I included it here for anyone who wants to use it.
+Close Theme Studio and select your new theme from the dropdown
+
+> [!NOTE]
+> The included JSON files are provided for reference only, as Raycast offers no import functionality. This barely qualifies as a theme, but I included it here for anyone who wants to use it.

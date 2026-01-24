@@ -37,6 +37,8 @@ brew install --cask vscodium
 
 ### 02. Copy theme extension
 
+Choose your editor:
+
 **For VS Code:**
 ```sh
 cp -r themes/vscode/yannnovak.ambitopia-dark-theme-1.0.0 ~/.vscode/extensions/
@@ -52,6 +54,8 @@ cp -r themes/vscode/yannnovak.ambitopia-dark-theme-1.0.0 ~/.vscode-oss/extension
 ### 04. Apply theme
 
 Open Command Palette (`Cmd+Shift+P`) and select "Preferences: Color Theme", then choose:
+
+Choose your variant:
 
 **For yellow variant:**
 - Ambitopia \[yellow\]

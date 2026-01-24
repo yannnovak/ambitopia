@@ -33,10 +33,12 @@ For the Ambitopia wallpapers, I wanted something dark—nearly black at the top�
 
 ### 01. Set wallpaper
 
-Navigate to your resolution folder (3456x2234 for laptops, 5120x2880 for desktops), then right-click your variant → **Set as Desktop Picture**
+Navigate to your resolution folder (`3456x2234` for laptops, `5120x2880` for desktops).
 
-**For yellow variant:**
-Right-click `ambitopia-yellow.png` or `ambitopia-yellow.jpg`
+Choose your variant and right-click the file → **Set as Desktop Picture**
 
-**For red variant:**
-Right-click `ambitopia-red.png` or `ambitopia-red.jpg`
+**Yellow variant:**
+- `ambitopia-yellow.png` or `ambitopia-yellow.jpg`
+
+**Red variant:**
+- `ambitopia-red.png` or `ambitopia-red.jpg`

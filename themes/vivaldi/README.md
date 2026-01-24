@@ -33,6 +33,8 @@ brew install --cask vivaldi
 
 Open Vivaldi Settings → Themes → Import Theme...
 
+Choose your variant:
+
 **For yellow variant:**
 Select `vv-ambitopia-yellow.zip`
 

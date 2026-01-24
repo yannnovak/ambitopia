@@ -37,19 +37,21 @@ Contents → App-Resources → Themes
 
 ### 03. Copy theme file
 
+Choose your variant:
+
 **For yellow variant:**
 ```sh
 cp themes/live/ambitopia_yellow.ask /Applications/Ableton\ Live\ 12.app/Contents/App-Resources/Themes/
 ```
 
-Or drag and drop `ambitopia-yellow.ask` into the Themes folder.
+Or drag and drop `ambitopia_yellow.ask` into the Themes folder.
 
 **For red variant:**
 ```sh
 cp themes/live/ambitopia_red.ask /Applications/Ableton\ Live\ 12.app/Contents/App-Resources/Themes/
 ```
 
-Or drag and drop `ambitopia-red.ask` into the Themes folder.
+Or drag and drop `ambitopia_red.ask` into the Themes folder.
 
 ### 04. Restart Ableton Live Settings
 

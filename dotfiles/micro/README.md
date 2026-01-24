@@ -35,27 +35,31 @@ mkdir -p ~/.config/micro/colorschemes
 ```
 
 ### 03. Copy theme files
+
+Choose your variant:
+
+**For yellow variant:**
 ```sh
 cp dotfiles/micro/ambitopia-yellow.micro ~/.config/micro/colorschemes/
+```
+
+**For red variant:**
+```sh
 cp dotfiles/micro/ambitopia-red.micro ~/.config/micro/colorschemes/
 ```
 
 ### 04. Configure theme
 
-Create or edit `~/.config/micro/settings.json`:
+Create the settings file for your chosen variant:
 
 **For yellow variant:**
-```json
-{
-    "colorscheme": "ambitopia-yellow"
-}
+```sh
+echo '{"colorscheme": "ambitopia-yellow"}' > ~/.config/micro/settings.json
 ```
 
 **For red variant:**
-```json
-{
-    "colorscheme": "ambitopia-red"
-}
+```sh
+echo '{"colorscheme": "ambitopia-red"}' > ~/.config/micro/settings.json
 ```
 
 ### 05. Launch Micro
@@ -63,6 +67,5 @@ Create or edit `~/.config/micro/settings.json`:
 micro
 ```
 
-## Notes
-
-Micro is a modern terminal text editor with intuitive keybindings (`Ctrl+S` to save, `Ctrl+Q` to quit, `Ctrl+E` for command mode). It's included in this dotfiles collection to provide an easy way to edit config files without leaving the terminal.
+> [!NOTE]
+> Micro is a modern terminal text editor with intuitive keybindings (`Ctrl+S` to save, `Ctrl+Q` to quit, `Ctrl+E` for command mode). It's included in this dotfiles collection to provide an easy way to edit config files without leaving the terminal.
