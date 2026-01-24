@@ -41,7 +41,7 @@ cava
 
 ### 04. Close cava
 
-Press `Ctrl+C` or `q` to exit.
+Press <kbd>Ctrl</kbd>+<kbd>C</kbd> or <kbd>Q</kbd> to exit.
 
 ### 05. Copy theme file
 
@@ -83,5 +83,5 @@ Save and close the file.
 cava
 ```
 
-> [!NOTE]
+> [!WARNING]
 > Cava on macOS has some limitations compared to Linux. You will need to install a loopback device - there are detailed instructions with a few options [here](https://github.com/karlstav/cava). Once you choose one, you will need to configure your audio source manually in the config file.

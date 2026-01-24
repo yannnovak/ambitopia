@@ -49,5 +49,6 @@ Click **Save** in the Theme Studio
 
 Close Theme Studio and select your new theme from the dropdown
 
-> [!NOTE]
-> The included JSON files are provided for reference only, as Raycast offers no import functionality. This barely qualifies as a theme, but I included it here for anyone who wants to use it.
+> [!WARNING]
+> - The included JSON files are provided for reference only, as Raycast offers no import functionality. 
+> - This barely qualifies as a theme, but I included it here for anyone who wants to use it.

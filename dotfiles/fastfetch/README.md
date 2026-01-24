@@ -52,17 +52,17 @@ cp dotfiles/fastfetch/config.jsonc ~/.config/fastfetch/config.jsonc
 fastfetch
 ```
 
-## Customization Notes
+> [!NOTE]
+> The included config provides a clean starting point. The yellow and red screenshots show customized versions with the following modifications:
+>
+> - **PC**: Custom hardware name (macOS doesn't provide clean model names by default)
+> - **Desktop Environment**: Custom "Aqua" label (macOS doesn't return DE info)
+> - **Window Manager**: Added custom window manager info after the default for specificity
+> - **Font**: macOS returns technical font names for the system font, so I used a custom format for the first to match the second font
+> - **Sound** (red variant only): I used custom format for my audio interface because of a software config that confused fastfetch
 
-The included config provides a clean starting point. The yellow and red screenshots show customized versions with the following modifications:
-
-- **PC**: Custom hardware name (macOS doesn't provide clean model names by default)
-- **Desktop Environment**: Custom "Aqua" label (macOS doesn't return DE info)
-- **Window Manager**: Added custom window manager info after the default for specificity
-- **Font**: macOS returns technical font names for the system font, so I used a custom format for the first to match the second font
-- **Sound** (red variant only): I used custom format for my audio interface because of a software config that confused fastfetch
-
-I encourage you to modify `config.jsonc` to match your specific hardware and preferences. You can learn more [here](https://github.com/fastfetch-cli/fastfetch/wiki/Configuration).
+> [!TIP]
+> I encourage you to modify `config.jsonc` to match your specific hardware and preferences. You can learn more [here](https://github.com/fastfetch-cli/fastfetch/wiki/Configuration).
 
 ### Using a Custom Logo
 

@@ -36,7 +36,7 @@ kew
 
 ### 03. Close kew
 
-Press `Esc` to exit.
+Press <kbd>Esc</kbd> to exit.
 
 ### 04. Copy theme file
 
@@ -69,5 +69,5 @@ kew theme ambitopia-red
 kew
 ```
 
-> [!NOTE]
+> [!WARNING]
 > Ghostty does not support how Kew displays album art, but I actually prefer it that way. The cover art swapping can be distracting, and the minimal layout with open space above the track details creates a cleaner, more focused listening experience.

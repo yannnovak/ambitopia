@@ -103,8 +103,7 @@ cmatrix -s -C yellow  # Yellow variant
 cmatrix -s -C red     # Red variant
 ```
 
-## Notes
-
-- Most configs go in `~/.config/`
-- You can mix and match yellow/red variants, but I recommend sticking to one or the other.
-- Some applications may require a restart to apply themes.
+> [!NOTE]
+> - Most configs go in `~/.config/`
+> - You can mix and match yellow/red variants, but I recommend sticking to one or the other.
+> - Some applications may require a restart to apply themes.

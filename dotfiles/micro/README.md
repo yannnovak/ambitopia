@@ -68,4 +68,5 @@ micro
 ```
 
 > [!NOTE]
-> Micro is a modern terminal text editor with intuitive keybindings (`Ctrl+S` to save, `Ctrl+Q` to quit, `Ctrl+E` for command mode). It's included in this dotfiles collection to provide an easy way to edit config files without leaving the terminal.
+> - Micro is a modern terminal text editor with intuitive keybindings (<kbd>Ctrl</kbd>+<kbd>S</kbd> to save, <kbd>Ctrl</kbd>+<kbd>Q</kbd> to quit, <kbd>Ctrl</kbd>+<kbd>E</kbd> for command mode). 
+> - It's included in this dotfiles collection to provide an easy way to edit config files without leaving the terminal.
