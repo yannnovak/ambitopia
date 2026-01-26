@@ -84,6 +84,7 @@ The two color variants serve different sides of my creative practice. Yellow is 
 ### Themes
 
 - [Live](themes/live/README.md) - Digital audio workstation
+- [Obsidian](themes/obsidian/README.md) - Knowledge base
 - [Raycast](themes/raycast/README.md) - App launcher
 - [Slack](themes/slack/README.md) - Messaging app
 - [Standard Notes](themes/standard-notes/README.md) - Note-taking app
@@ -111,13 +112,12 @@ Standalone theme repositories that work with Ambitopia:
 ## Roadmap
 
 **Planned**
-- [ ] Obsidian - Note-taking and knowledge base
-- [ ] BetterDiscord - Discord theming
-
-**Under Consideration**
 - [ ] Yazi - Terminal file manager
 - [ ] Newsboat - RSS reader
+
+**Under Consideration**
 - [ ] Blue variant
+- [ ] Did I miss something? Get in touch
 
 ## Inspiration
 
@@ -149,6 +149,7 @@ ambitopia/
 │   └── micro/            # Terminal text editor
 ├── themes/
 │   ├── live/             # DAW
+│   ├── obsidian/         # Knowledge base
 │   ├── raycast/          # App launcher
 │   ├── slack/            # Messaging app
 │   ├── standard-notes/   # Note-taking app

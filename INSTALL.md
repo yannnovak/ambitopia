@@ -73,6 +73,7 @@ Each application has its own installation guide. Choose the ones you want to the
 - [Thunderbird](themes/thunderbird/README.md) - Mail client
 - [VSCode/VSCodium](themes/vscode/README.md) - Editor
 - [Standard Notes](themes/standard-notes/README.md) - Note-taking app
+- [Obsidian](themes/obsidian/README.md) - Knowledge base
 - [Slack](themes/slack/README.md) - Messaging app
 - [Raycast](themes/raycast/README.md) - App launcher
 - [Live](themes/live/README.md) - Digital audio workstation

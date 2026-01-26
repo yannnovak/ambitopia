@@ -1,0 +1,42 @@
+/* ==========================================
+= Ambitopia
+========================================== */
+
+.theme-dark {
+    --color-base-00: #000;
+	--color-base-05: #030408;
+	--color-base-10: #17181c;
+	--color-base-20: #17181c;
+	--color-base-25: #2e2f32;
+	--color-base-35: #333;
+	--color-base-40: #444;
+	--color-base-50: #666;
+	--color-base-60: #999;
+	--color-base-70: #e3e3e3;
+	--color-base-100: #fff;
+
+    --text-error: #c5003c;
+    --text-success: #397979;
+
+	--background-primary: var(--color-base-05);
+	--background-secondary: var(--color-base-20);
+
+	--titlebar-background: var(--color-base-20);
+	--titlebar-background-focused: var(--color-base-20);
+
+    --nav-item-background-hover: rgba(3, 4, 8, 0.5);
+    --nav-item-background-active: var(--nav-item-background-hover);
+
+    --bases-table-group-background: var(--color-base-20);
+
+    --dropdown-background: var(--color-base-25);
+}
+select:focus-visible, 
+.combobox-button:focus-visible, 
+.dropdown:focus-visible,
+body:not(.is-phone) .workspace-leaf.mod-active .tree-item-self.has-focus {
+    box-shadow: 0 0 0 2px var(--color-accent);
+}
+.workspace-sidedock-vault-profile {
+    display: none !important;
+}
