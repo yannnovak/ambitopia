@@ -104,10 +104,13 @@ The two color variants serve different sides of my creative practice. Yellow is 
 
 ## Related Projects
 
-Standalone theme repositories that work with Ambitopia:
+Standalone theme repositories that are part of Ambitopia:
 
 - [Standard Notes (Yellow)](https://github.com/yannnovak/sn-ambitopia-yellow-theme) - Note-taking app theme
 - [Standard Notes (Red)](https://github.com/yannnovak/sn-ambitopia-red-theme) - Note-taking app theme
+
+**Beyond Code:**
+- [Sounds Toward A Queer Ambitopia](https://www.yannnovak.com/mixes/) - My radio show that imagines sonic worlds beyond the utopian/dystopian binary ([Mixcloud](https://www.mixcloud.com/yannnovak/))
 
 ## Roadmap
 
