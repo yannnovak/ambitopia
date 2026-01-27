@@ -62,3 +62,6 @@ Choose your variant:
 
 **For red variant:**
 - Ambitopia \[red\]
+
+> [!NOTE]
+> I am primarily a web developer, so the syntax highlighting has mainly been tested with HTML, CSS, JS, and PHP. If something is off please let me know.
