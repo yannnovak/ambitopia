@@ -2,9 +2,6 @@
 
 Standard Notes was the most important theme in Ambitopia because I spend so much time using it, so I spent the most time on it. That said, I still need to get its syntax highlighting inline with the rest of the system, but it's close.
 
-**Version \[Yellow\]:** 1.0.9  
-**Version \[Red\]:** 1.0.2
-
 ## Preview
 
 ![Screenshot with yellow wallpaper and showing Standard Notes in yellow](../../assets/screenshots/standard-notes-yellow.png)

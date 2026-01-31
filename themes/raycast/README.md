@@ -31,11 +31,9 @@ brew install --cask raycast
 
 ### 02. Configure theme colors
 
-Choose your variant:
-
 Open Raycast Settings → General → Open Theme Studio
 
-Manually enter the color values from:
+Choose your variant and manually enter the color values from:
 
 **Yellow variant:** [ambitopia-yellow.json](ambitopia-yellow.json)
 

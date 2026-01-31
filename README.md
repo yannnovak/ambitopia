@@ -83,6 +83,7 @@ The two color variants serve different sides of my creative practice. Yellow is 
 
 ### Themes
 
+- [Kagi](themes/kagi/README.md) - Search engine
 - [Live](themes/live/README.md) - Digital audio workstation
 - [Obsidian](themes/obsidian/README.md) - Knowledge base
 - [Raycast](themes/raycast/README.md) - App launcher
@@ -151,6 +152,7 @@ ambitopia/
 │   ├── kew/              # Music player
 │   └── micro/            # Terminal text editor
 ├── themes/
+│   ├── kagi/             # Search engine
 │   ├── live/             # DAW
 │   ├── obsidian/         # Knowledge base
 │   ├── raycast/          # App launcher

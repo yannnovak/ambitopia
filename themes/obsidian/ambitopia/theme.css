@@ -2,7 +2,14 @@
 = Ambitopia
 ========================================== */
 
+@import url(https://fonts.bunny.net/css?family=barlow:400,400i,500,500i,600,600i,700,700i);
+@import url(https://fonts.bunny.net/css?family=space-mono:400,400i,700,700i);
+
 .theme-dark {
+    --font-interface-theme: "Barlow";
+    --font-monospace-theme: "Space Mono";
+    --font-text-theme: var(--font-interface-theme);
+    
     --color-base-00: #000;
 	--color-base-05: #030408;
 	--color-base-10: #17181c;

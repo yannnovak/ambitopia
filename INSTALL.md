@@ -76,6 +76,7 @@ Each application has its own installation guide. Choose the ones you want to the
 - [Obsidian](themes/obsidian/README.md) - Knowledge base
 - [Slack](themes/slack/README.md) - Messaging app
 - [Raycast](themes/raycast/README.md) - App launcher
+- [Kagi](themes/kagi/README.md) - Search engine
 - [Live](themes/live/README.md) - Digital audio workstation
 
 ### Widgets

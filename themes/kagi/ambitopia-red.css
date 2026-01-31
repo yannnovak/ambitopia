@@ -1,0 +1,105 @@
+/* ==========================================
+= Ambitopia [red]
+========================================== */
+
+@import url(https://fonts.bunny.net/css?family=barlow:400,400i,500,500i,600,600i,700,700i);
+@import url(https://fonts.bunny.net/css?family=space-mono:400,400i,700,700i);
+
+:root {
+    --ambitopia-accent: #f22613;
+    --ambitpoia-background: #030408;
+    --ambitpoia-background-secondary: #17181c;
+    --ambitpoia-background-tertiary: #2e2f32;
+
+    --input-bg: var(--ambitpoia-background-secondary);
+    --primary-hover: var(--ambitopia-accent);
+    --result-item-title-border_hover: var(--ambitopia-accent);
+    --nav_n_se_line: var(--ambitopia-accent);
+    --related-item-bg: var(--ambitpoia-background-secondary);
+
+    --hover-bg: color-mix(in srgb, var(--ambitpoia-background) 20%, transparent);
+    --related-item-hover-bg: var(--ambitpoia-background-tertiary);
+
+    --warning: #f9690e;
+}
+.doggo_sit_a {
+    display:none;
+}
+body {
+    font-family: "Barlow", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.search-form .searchFormSubmitBtn {
+font-family: "Space Mono", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+.theme_moon_dark {
+    --m_sri_gap_color: var(--ambitpoia-background);
+    --kagi-accent: var(--ambitpoia-background);
+    --background-color: var(--ambitpoia-background);
+}
+body, html, .app-header {
+    background-color: var(--ambitpoia-background);
+}
+.search-form .search-input-container {
+    border: none;
+    border-radius: 8px;
+}
+.search-form .search-input {
+    padding-left: 16px;
+}
+.search-form .search-form-icons {
+    padding-right: 10px;
+}
+body._0_auto-sug .search-input-container {
+    border-radius: 8px 8px 0 0;
+}
+.search-form .auto_suggestions {
+     border-radius: 0 0 8px 8px;
+}
+footer {
+    background-color: unset;
+}
+.m-h .m-app-logo {
+    display: none;
+}
+.__sri-title .__domain-favicon {
+    border-radius: 50%;
+}
+.auto_suggestions, .auto_suggestions .auto_suggestions_in {
+    border: none;
+}
+.search-form-icons .sfi_sep {
+    display: none;
+}
+#quickSettingsOpenBtn > a:nth-child(1) {
+    border: none;
+}
+#searchForm > div.search-input-container > div {
+    border: none;
+}
+#searchFormSubmit {
+    display: none;
+}
+#searchBar {
+    padding-left: 4px;
+}
+#searchForm {
+    margin-left: 0;
+}
+.logo {
+    color: var(--ambitopia-accent);
+}
+input:where(:not([type=checkbox],[type=radio]))::placeholder,textarea::placeholder {
+    color: transparent; 
+    opacity: 1
+}
+#_0_lens_table_active .k_ui_toggle_switch .k_ui_toggle_switch_bar, 
+.k_ui_toggle_switch input:checked~.k_ui_toggle_switch_bar, 
+.k_ui_toggle_switch.--enabled .k_ui_toggle_switch_bar {
+    background: var(--ambitopia-accent) !important;
+    border-color: var(--ambitopia-accent) !important;
+}

@@ -2,8 +2,6 @@
 
 My VS Code theme is based on [Dreamweaver Dark Theme Modern](https://github.com/amnweb/Dreamweaver-Dark-Theme). I used Dreamweaver far longer than I should have (10+ years), and when I moved to a modern IDE I wanted the syntax highlighting to match to make the transition smoother. The Ambitopia version is completely transformed, but basing it this way allowed me to keep some of the syntax highlighting I was used to, even if it's in my color palette now.
 
-**Version:** 1.0.0
-
 ## Preview
 
 ![Screenshot with yellow wallpaper and showing VSCodium in yellow](../../assets/screenshots/vscode-yellow.png)

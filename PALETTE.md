@@ -1,6 +1,17 @@
-# Ambitopia Color Palette
+# Ambitopia Palette
 
-The Ambitopia design system is built around a dark color palette with high-contrast accent colors, and muted versions of the primary colors for use for syntax highlighting. The palette is designed with a nod to a cyberpunk aesthetic.
+The Ambitopia design system is built around a dark color palette with high-contrast accent colors, and muted versions of the primary colors for use in syntax highlighting. The palette is designed with a nod to a cyberpunk aesthetic.
+
+## Typography
+
+### Interface Fonts
+- **Barlow** - Primary interface font ([GitHub](https://github.com/jpt/barlow))
+
+### Code Fonts
+- **SpaceMono Nerd Font** - Monospace font with icon support ([GitHub](https://github.com/ryanoasis/nerd-fonts/))
+
+### Display Fonts
+- **Ndot 57** - Dot matrix display font used for branding and widget day-of-week ([GitHub](https://github.com/xeji01/nothingfont))
 
 ## Core Colors
 
