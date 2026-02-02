@@ -77,6 +77,7 @@ Each application has its own installation guide. Choose the ones you want to the
 - [Slack](themes/slack/README.md) - Messaging app
 - [Raycast](themes/raycast/README.md) - App launcher
 - [Kagi](themes/kagi/README.md) - Search engine
+- [Mastodon](themes/mastodon/README.md) - Decentralized social network
 - [Live](themes/live/README.md) - Digital audio workstation
 
 ### Widgets

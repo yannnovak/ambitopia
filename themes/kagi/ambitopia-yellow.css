@@ -7,18 +7,18 @@
 
 :root {
     --ambitopia-accent: #fdf400;
-    --ambitpoia-background: #030408;
-    --ambitpoia-background-secondary: #17181c;
-    --ambitpoia-background-tertiary: #2e2f32;
+    --ambitopia-background: #030408;
+    --ambitopia-background-secondary: #17181c;
+    --ambitopia-background-tertiary: #2e2f32;
 
-    --input-bg: var(--ambitpoia-background-secondary);
+    --input-bg: var(--ambitopia-background-secondary);
     --primary-hover: var(--ambitopia-accent);
     --result-item-title-border_hover: var(--ambitopia-accent);
     --nav_n_se_line: var(--ambitopia-accent);
-    --related-item-bg: var(--ambitpoia-background-secondary);
+    --related-item-bg: var(--ambitopia-background-secondary);
 
-    --hover-bg: color-mix(in srgb, var(--ambitpoia-background) 20%, transparent);
-    --related-item-hover-bg: var(--ambitpoia-background-tertiary);
+    --hover-bg: color-mix(in srgb, var(--ambitopia-background) 20%, transparent);
+    --related-item-hover-bg: var(--ambitopia-background-tertiary);
 
     --warning: #f9690e;
 }
@@ -37,12 +37,12 @@ font-family: "Space Mono", sans-serif;
     font-style: normal;
 }
 .theme_moon_dark {
-    --m_sri_gap_color: var(--ambitpoia-background);
-    --kagi-accent: var(--ambitpoia-background);
-    --background-color: var(--ambitpoia-background);
+    --m_sri_gap_color: var(--ambitopia-background);
+    --kagi-accent: var(--ambitopia-background);
+    --background-color: var(--ambitopia-background);
 }
 body, html, .app-header {
-    background-color: var(--ambitpoia-background);
+    background-color: var(--ambitopia-background);
 }
 .search-form .search-input-container {
     border: none;

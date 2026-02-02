@@ -54,7 +54,7 @@ A modular design system of dotfiles and themes for macOS featuring a dark palett
 ## What's Inside
 
 * **Two color variants** - Yellow for focus work, red for creative work
-* **10+ themed applications** - Terminal, editor, browser, system monitor, and more
+* **15+ themed applications** - Terminal, editor, browser, system monitor, and more
 * **Modular approach** - Use the full setup or pick individual themes à la carte
 * **Beginner-friendly documentation** - Step-by-step installation guides for macOS users
 * **Cross-platform compatible** - All themes work on other operating systems
@@ -85,6 +85,7 @@ The two color variants serve different sides of my creative practice. Yellow is 
 
 - [Kagi](themes/kagi/README.md) - Search engine
 - [Live](themes/live/README.md) - Digital audio workstation
+- [Mastodon](themes/mastodon/README.md) - Decentralized social network
 - [Obsidian](themes/obsidian/README.md) - Knowledge base
 - [Raycast](themes/raycast/README.md) - App launcher
 - [Slack](themes/slack/README.md) - Messaging app
@@ -154,6 +155,7 @@ ambitopia/
 ├── themes/
 │   ├── kagi/             # Search engine
 │   ├── live/             # DAW
+│   ├── mastodon/         # Decentralized social network
 │   ├── obsidian/         # Knowledge base
 │   ├── raycast/          # App launcher
 │   ├── slack/            # Messaging app
