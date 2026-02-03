@@ -1,6 +1,9 @@
 # Ableton Live
 
-Making a custom theme for Live has been on my bucket list. Really happy I got this one started, but as I use it I suspect I will refine it further. The track colors Live or a user can assign cannot be changed, so I left the colors I had been using in the previous theme for the preview.
+Making a custom theme for Live has been on my bucket list. Really happy I got this one started, but as I use it I suspect I will refine it further.
+
+> [!CAUTION]
+> This theme is a work in progress; the disabled states are not differentiated enough and will be improved.
 
 ## Preview
 
@@ -39,19 +42,13 @@ Contents → App-Resources → Themes
 
 Choose your variant:
 
-**For yellow variant:**
-```sh
-cp themes/live/ambitopia_yellow.ask /Applications/Ableton\ Live\ 12.app/Contents/App-Resources/Themes/
-```
+**Yellow variant:**
 
-Or drag and drop `ambitopia_yellow.ask` into the Themes folder.
+Drag and drop `ambitopia_yellow.ask` into the Themes folder.
 
-**For red variant:**
-```sh
-cp themes/live/ambitopia_red.ask /Applications/Ableton\ Live\ 12.app/Contents/App-Resources/Themes/
-```
+**Red variant:**
 
-Or drag and drop `ambitopia_red.ask` into the Themes folder.
+Drag and drop `ambitopia_red.ask` into the Themes folder.
 
 ### 04. Restart Ableton Live Settings
 
@@ -60,3 +57,6 @@ If Ableton is open, close and reopen the Settings window.
 ### 05. Select theme
 
 Go to Settings → Theme & Colors and select your Ambitopia theme from the dropdown.
+
+> ![NOTE]
+> The track and clip color palette cannot be changed, so I left the colors I had been using in the previous theme for the preview. 

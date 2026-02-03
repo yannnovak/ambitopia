@@ -2,7 +2,8 @@
 
 This was the second theme I created after Vivaldi. I originally based it on another theme but can't remember which one—my first attempt failed miserably, and by the time I revisited it at the end of the project, I'd lost the source. I essentially rewrote it from scratch, so the missing attribution shouldn't be an issue.
 
-**Version:** 1.0.4
+> [!CAUTION]
+> This theme is a work in progress; I only use Thunderbird for email, so I have not tested the calendar or chat panes yet. I am also having trouble targeting some button labels.
 
 ## Preview
 

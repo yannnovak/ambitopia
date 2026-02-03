@@ -1,6 +1,9 @@
 # Obsidian                                                                
 
-I am using Obsidian as a replacement for Notion, so there may be some sections of the app that are neglected, but I tried to just change colors so it would be consistent across all use-cases. I use [Iconic](https://github.com/gfxholo/iconic) to add icons to my folders and files. I felt the theme would be more useful to others without my hyper-specific section icons hard coded.
+I am using Obsidian as a replacement for Notion, so I may need to change this theme as my specific use case becomes more defined. I use [Iconic](https://github.com/gfxholo/iconic) to add icons to my folders and files. I felt the theme would be more useful to others without my hyper‑specific section icons hard‑coded.
+
+> [!CAUTION]
+> This theme is a work in progress; I mainly focused on adjusting colors so the appearance remains consistent across all use‑cases, but some sections of the app may be neglected.
 
 ## Preview
 

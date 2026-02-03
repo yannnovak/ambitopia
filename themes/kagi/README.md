@@ -2,6 +2,9 @@
 
 You may have noticed that privacy is a thread running through the apps I chose to include, and that extends to my search engine. Kagi is by far my favorite. So I was super excited to discover I could theme Kagi. Because I could include custom fonts, that inspired me to add custom fonts in a number of my themes across Ambitopia.
 
+> [!CAUTION]
+> This theme is a work in progress; some lenses are unfinished or haven't been worked on yet.
+
 ## Preview
 
 ![Screenshot with yellow wallpaper and showing Vivaldi in yellow](../../assets/screenshots/vivaldi-yellow.png)

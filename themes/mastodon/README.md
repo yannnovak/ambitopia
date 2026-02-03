@@ -2,6 +2,9 @@
 
 I run my own Mastodon instance for myself and a few friends, and because it's [ambitopia.social](https://ambitopia.social/) I thought I should create a theme for it. However, I have a managed Mastodon instance from [MastoHost](https://masto.host) so I can't install a full theme. Instead, I took the approach of just using the Custom CSS feature for my instance. Once it was done, I realized anyone could deploy it via a browser plugin.
 
+> [!CAUTION]
+> This theme is a work in progress; I have not tested all post types and variations, but I will continue to work on it as I use it.
+
 ## Preview
 
 ![Screenshot with yellow wallpaper and showing Mastodon in yellow](../../assets/screenshots/mastodon-yellow.png)
