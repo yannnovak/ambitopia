@@ -6,10 +6,23 @@
 @import url(https://fonts.bunny.net/css?family=space-mono:400,400i,700,700i);
 
 :root {
+    --ambitopia-primary-text: #e3e3e3;
     --ambitopia-accent: #f22613;
     --ambitopia-background: #030408;
     --ambitopia-background-secondary: #17181c;
     --ambitopia-background-tertiary: #2e2f32;
+    --ambitopia-color-red: #c5003c;
+    --ambitopia-color-orange: #f9690e;
+    --ambitopia-color-green: #397979;
+    --ambitopia-color-cyan: #55ead4;
+    --ambitopia-color-blue: #385a8c;
+    --ambitopia-color-purple: #a537fd;
+    --ambitopia-syntax-red: #e61e5b;
+    --ambitopia-syntax-orange: #fcad7b;
+    --ambitopia-syntax-yellow: #fcd670;
+    --ambitopia-syntax-green: #7ca893;
+    --ambitopia-syntax-blue: #89b9e1;
+    --ambitopia-syntax-purple: #cd8ffe;
 
     --input-bg: var(--ambitopia-background-secondary);
     --primary-hover: var(--ambitopia-accent);
@@ -20,7 +33,7 @@
     --hover-bg: color-mix(in srgb, var(--ambitopia-background) 20%, transparent);
     --related-item-hover-bg: var(--ambitopia-background-tertiary);
 
-    --warning: #f9690e;
+    --warning: var(--ambitopia-color-orange) !important;
 }
 .doggo_sit_a {
     display:none;
@@ -102,4 +115,16 @@ input:where(:not([type=checkbox],[type=radio]))::placeholder,textarea::placehold
 .k_ui_toggle_switch.--enabled .k_ui_toggle_switch_bar {
     background: var(--ambitopia-accent) !important;
     border-color: var(--ambitopia-accent) !important;
+}
+.serp-nav .nav_item.n_im:after {
+    background-color: var(--ambitopia-color-blue) !important;
+}
+.serp-nav .nav_item.n_vi:after {
+    background-color: var(--ambitopia-color-red) !important;
+}
+.serp-nav .nav_item.n_ne:after {
+    background-color: var(--ambitopia-color-purple) !important;
+}
+.serp-nav .nav_item.n_ma:after {
+    background-color: var(--ambitopia-color-green) !important;
 }
