@@ -80,6 +80,7 @@ The two color variants serve different sides of my creative practice. Yellow is 
 - [JankyBorders](dotfiles/borders/README.md) - Window borders
 - [Kew](dotfiles/kew/README.md) - Terminal music player
 - [Micro](dotfiles/micro/README.md) - Text editor
+- [Yazi](dotfiles/yazi/README.md) - Terminal file manager
 
 ### Themes
 
@@ -117,7 +118,6 @@ Standalone theme repositories that are part of Ambitopia:
 ## Roadmap
 
 **Planned**
-- [ ] Yazi - Terminal file manager
 - [ ] Newsboat - RSS reader
 
 **Under Consideration**
@@ -151,7 +151,8 @@ ambitopia/
 │   ├── fastfetch/        # System info
 │   ├── ghostty/          # Terminal emulator
 │   ├── kew/              # Music player
-│   └── micro/            # Terminal text editor
+│   ├── micro/            # Terminal text editor
+│   └── yazi/             # Terminal file manager
 ├── themes/
 │   ├── kagi/             # Search engine
 │   ├── live/             # DAW

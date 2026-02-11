@@ -26,6 +26,7 @@
 
     --input-bg: var(--ambitopia-background-secondary);
     --primary-hover: var(--ambitopia-accent);
+    --primary-visited: var(--ambitopia-color-red);
     --result-item-title-border_hover: var(--ambitopia-accent);
     --nav_n_se_line: var(--ambitopia-accent);
     --related-item-bg: var(--ambitopia-background-secondary);

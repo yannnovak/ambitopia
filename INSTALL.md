@@ -66,6 +66,7 @@ Each application has its own installation guide. Choose the ones you want to the
 - [btop](dotfiles/btop/README.md) - System monitor
 - [Kew](dotfiles/kew/README.md) - Terminal music player
 - [Cava](dotfiles/cava/README.md) - Audio visualizer
+- [Yazi](dotfiles/yazi/README.md) - Terminal file manager
 
 ### Themes
 

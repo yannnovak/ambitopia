@@ -4,13 +4,13 @@ The Ambitopia design system is built around a dark color palette with high-contr
 
 ## Typography
 
-### Interface Fonts
+### Interface Font
 - **Barlow** - Primary interface font ([GitHub](https://github.com/jpt/barlow))
 
-### Code Fonts
+### Code Font
 - **SpaceMono Nerd Font** - Monospace font with icon support ([GitHub](https://github.com/ryanoasis/nerd-fonts/))
 
-### Display Fonts
+### Display Font
 - **Ndot 57** - Dot matrix display font used for branding and widget day-of-week ([GitHub](https://github.com/xeji01/nothingfont))
 
 ## Core Colors
