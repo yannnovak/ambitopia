@@ -47,3 +47,6 @@ body:not(.is-phone) .workspace-leaf.mod-active .tree-item-self.has-focus {
 .workspace-sidedock-vault-profile {
     display: none !important;
 }
+.is-translucent:not(.is-fullscreen) {
+    --divider-color: var(--color-base-25) !important;
+}
