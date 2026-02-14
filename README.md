@@ -29,6 +29,13 @@ A modular design system of dotfiles and themes for macOS featuring a dark palett
 </p>
 <br>
 
+![Screenshot with yellow wallpaper and showing Newsboat, and Yazi](./assets/screenshots/ambitopia-yellow-04.png)
+
+<p align="center">
+    Newsboat, Yazi
+</p>
+<br>
+
 ### Red Variant
 
 ![Screenshot with red wallpaper and showing VSCodium, Fastfetch, and Btop](./assets/screenshots/ambitopia-red-01.png)
@@ -51,10 +58,16 @@ A modular design system of dotfiles and themes for macOS featuring a dark palett
     Thunderbird, Cava, Cmatrix
 </p>
 
+![Screenshot with red wallpaper and showing Newsboat, and Yazi](./assets/screenshots/ambitopia-red-04.png)
+
+<p align="center">
+    Newsboat, Yazi
+</p>
+
 ## What's Inside
 
 * **Two color variants** - Yellow for focus work, red for creative work
-* **15+ themed applications** - Terminal, editor, browser, system monitor, and more
+* **20 themed applications** - Terminal, editor, browser, system monitor, and more
 * **Modular approach** - Use the full setup or pick individual themes à la carte
 * **Beginner-friendly documentation** - Step-by-step installation guides for macOS users
 * **Cross-platform compatible** - All themes work on other operating systems
@@ -80,6 +93,8 @@ The two color variants serve different sides of my creative practice. Yellow is 
 - [JankyBorders](dotfiles/borders/README.md) - Window borders
 - [Kew](dotfiles/kew/README.md) - Terminal music player
 - [Micro](dotfiles/micro/README.md) - Text editor
+- [Newsboat](dotfiles/newsboat/README.md) - RSS reader
+- [Starship](dotfiles/starship/README.md) - Terminal prompt
 - [Yazi](dotfiles/yazi/README.md) - Terminal file manager
 
 ### Themes
@@ -118,7 +133,10 @@ Standalone theme repositories that are part of Ambitopia:
 ## Roadmap
 
 **Planned**
-- [ ] Newsboat - RSS reader
+- [ ] Bat - File viewer
+- [ ] eza - File listing
+- [ ] Broot - Directory browser
+- [ ] fzf - Fuzzy finder
 
 **Under Consideration**
 - [ ] Blue variant
@@ -152,6 +170,8 @@ ambitopia/
 │   ├── ghostty/          # Terminal emulator
 │   ├── kew/              # Music player
 │   ├── micro/            # Terminal text editor
+│   ├── newsboat/         # RSS reader
+│   ├── starship/         # Terminal prompt
 │   └── yazi/             # Terminal file manager
 ├── themes/
 │   ├── kagi/             # Search engine

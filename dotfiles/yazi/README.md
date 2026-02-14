@@ -1,6 +1,6 @@
 # Yazi
 
-I am not one of those people that 'lives in the terminal,' but I think Finder is one of the worst implementations of Liquid Glass, so I am experimenting with other file browsers.
+I am not one of those people that 'lives in the terminal,' but I think Finder is one of the worst implementations of Liquid Glass, so I am experimenting with other file browsers. I relied heavily on [Cybrland](https://github.com/scherrer-txt/cybrland/tree/main/yazi) for the icons in my theme.
 
 ## Preview
 

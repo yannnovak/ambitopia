@@ -61,12 +61,14 @@ Each application has its own installation guide. Choose the ones you want to the
 
 - [Ghostty](dotfiles/ghostty/README.md) - Terminal emulator
 - [Micro](dotfiles/micro/README.md) - Text editor
+- [Yazi](dotfiles/yazi/README.md) - Terminal file manager
+- [Starship](dotfiles/starship/README.md) - Terminal prompt
 - [JankyBorders](dotfiles/borders/README.md) - Window borders
 - [Fastfetch](dotfiles/fastfetch/README.md) - System info
 - [btop](dotfiles/btop/README.md) - System monitor
 - [Kew](dotfiles/kew/README.md) - Terminal music player
 - [Cava](dotfiles/cava/README.md) - Audio visualizer
-- [Yazi](dotfiles/yazi/README.md) - Terminal file manager
+- [Newsboat](dotfiles/newsboat/README.md) - RSS reader
 
 ### Themes
 

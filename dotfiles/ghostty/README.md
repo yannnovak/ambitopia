@@ -65,3 +65,7 @@ theme = ambitopia-red.conf
 ### 05. Restart Ghostty
 
 The theme will apply after restarting Ghostty.
+
+> [!NOTE]
+> - I have the 'last login' message hidden, if you would like to hide it as well you can use this command: `touch ~/.hushlogin`.
+> - To achieve the full look in the screenshots you also need to install [Starship](../../dotfiles/starship/README.md).

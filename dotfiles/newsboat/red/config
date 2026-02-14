@@ -1,0 +1,39 @@
+# ============================================
+# Ambitopia [red]
+# ============================================
+
+# List items
+color listnormal         color7  default
+color listnormal_unread  color11 default bold
+color listfocus          color0  color1
+color listfocus_unread   color0  color1  bold
+
+# Background and article
+color background         default default
+color article            color7  default
+color end-of-text-marker color8  default
+
+# Info bar
+color info               color0  color1
+
+# Hints
+color hint-separator     color0  color1
+color hint-description   color0  color1
+
+# Title bar
+color title              color1  color8
+
+# Article highlights
+highlight article "^(Feed|Title|Author|Link|Date): .+" color7 default
+highlight article "^(Feed|Title|Author|Link|Date):" color9 default bold
+
+# Links and media
+highlight article "\\((link|image|video|iframe)\\)" color4 default
+highlight article "https?://[^ ]+" color1 default underline
+highlight article "\[[0-9]+\]" color4 default bold
+
+# List style
+feedlist-format "%?T?│  ├── %-7u %t &%t ?"
+
+highlight feedlist "[├──│─]" color1 default
+highlight feedlist "│  ├── " color1 default
