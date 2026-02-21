@@ -132,6 +132,9 @@ Standalone theme repositories that are part of Ambitopia:
 
 ## Roadmap
 
+**In Progress**
+- [ ] Home Assistant - Smart home
+
 **Planned**
 - [ ] Bat - File viewer
 - [ ] eza - File listing
@@ -147,7 +150,7 @@ Standalone theme repositories that are part of Ambitopia:
 - [Redfern Jon Barrett](https://vector-bsfa.com/2023/08/07/ambitopia-futures-beyond-the-binary/) - For coining a term that has been so useful for describing where my work lives
 - [Cybrland](https://github.com/scherrer-txt/cybrland) - Recently discovered system that got me to put this all together in a more professional way
 
-## Repository Structure
+## Project Structure
 ```
 ambitopia/
 ├── assets/

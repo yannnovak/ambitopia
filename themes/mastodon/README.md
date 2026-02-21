@@ -33,11 +33,11 @@ I run my own Mastodon instance for myself and a few friends, and because it's [a
 
 If you run your own Mastodon instance, you can apply this theme server-wide.
 
-#### 01. Open Preferences
+### 01. Open Preferences
 
 Go to Preferences → Administration → Server Settings → Appearance
 
-#### 02. Paste theme code
+### 02. Paste theme code
 
 Choose your variant, then copy and paste the contents into the Custom CSS field.
 
@@ -45,7 +45,7 @@ Choose your variant, then copy and paste the contents into the Custom CSS field.
 
 **Red variant:** [ambitopia-red.css](ambitopia-red.css)
 
-#### 03. Save changes
+### 03. Save changes
 
 Click **Save** to apply the theme server-wide.
 
@@ -56,7 +56,7 @@ Click **Save** to apply the theme server-wide.
 
 If you're using someone else's instance, you can apply this theme just for yourself using Stylus.
 
-#### 01. Install Stylus browser extension
+### 01. Install Stylus browser extension
 
 **For Vivaldi/Chrome:**
 Install [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) from the Chrome Web Store
@@ -64,11 +64,11 @@ Install [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeeba
 **For Firefox:**
 Install [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) from Firefox Add-ons
 
-#### 02. Create new style
+### 02. Create new style
 
 Click the Stylus extension icon → **Manage** → **Write new style**
 
-#### 03. Paste theme code
+### 03. Paste theme code
 
 Choose your variant, then copy and paste the contents into the code editor.
 
@@ -76,11 +76,11 @@ Choose your variant, then copy and paste the contents into the code editor.
 
 **Red variant:** [ambitopia-red.css](ambitopia-red.css)
 
-#### 04. Set URL pattern
+### 04. Set URL pattern
 
 In the "Applies to" section, select **URLs on the domain** and enter your Mastodon instance domain (e.g., `mastodon.social`)
 
-#### 05. Save and apply
+### 05. Save and apply
 
 Give your style a name (e.g., "Ambitopia Yellow") and click **Save**
 

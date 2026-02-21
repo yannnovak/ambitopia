@@ -240,7 +240,7 @@ symbol = " "
 
 [character]
 disabled = false
-success_symbol = '[↪](bold fg:#e3e3e3)'
+success_symbol = '[󱞩](bold fg:#e3e3e3)'
 error_symbol = '[](bold fg:#e3e3e3)'
 vimcmd_symbol = '[⮜](bold fg:#e3e3e3)'
 vimcmd_replace_one_symbol = '[⮜](bold fg:#e3e3e3)'

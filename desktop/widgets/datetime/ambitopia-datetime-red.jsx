@@ -28,14 +28,14 @@ export const render = (output) => {
             <style>{`
                 .day {
                     font-family: 'Ndot 57', sans-serif;
-                    font-size: 4vw; 
+                    font-size: 3.75vw; 
                     letter-spacing: 0.05em;
                     line-height: 1;
                     margin-bottom: -10px;
                 }
                 .date {
                     font-family: 'SpaceMono Nerd Font', sans-serif;
-                    font-size: 0.9vw;
+                    font-size: 0.8vw;
                     margin-bottom: 3px;
                     opacity: 0.9;
                 }
