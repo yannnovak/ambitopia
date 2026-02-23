@@ -9,28 +9,28 @@ A modular design system of dotfiles and themes for macOS featuring a dark palett
 ![Screenshot showing split variations and featuring VSCodium, Fastfetch, and Btop](./assets/showcase/ambitopia-showcase-01.png)
 
 <p align="center">
-    VSCodium, Fastfetch, Btop
+    Red variant (upper right) and yellow variant (lower left): VSCodium, Fastfetch, Btop
 </p>
 <br>
 
 ![Screenshot showing split variations and featuring Micro, Kew, and Standard Notes](./assets/showcase/ambitopia-showcase-02.png)
 
 <p align="center">
-    Micro, Kew, Standard Notes
+    Yellow variant (upper left) and red variant (lower right): Micro, Kew, Standard Notes
 </p>
 <br>
 
 ![Screenshot showing split variations and featuring Thunderbird, Cava, and Cmatrix](./assets/showcase/ambitopia-showcase-03.png)
 
 <p align="center">
-    Thunderbird, Cava, Cmatrix
+    Red variant (upper right) and yellow variant (lower left): Thunderbird, Cava, Cmatrix
 </p>
 <br>
 
 ![Screenshot showing split variations and featuring Newsboat, and Yazi](./assets/showcase/ambitopia-showcase-04.png)
 
 <p align="center">
-    Newsboat, Yazi
+    Yellow variant (upper left) and red variant (lower right): Newsboat, Yazi
 </p>
 <br>
 
