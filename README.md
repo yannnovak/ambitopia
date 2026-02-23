@@ -6,63 +6,33 @@ A modular design system of dotfiles and themes for macOS featuring a dark palett
 
 ## Showcase
 
-### Yellow Variant
-
-![Screenshot with yellow wallpaper and showing VSCodium, Fastfetch, and Btop](./assets/screenshots/ambitopia-yellow-01.png)
+![Screenshot showing split variations and featuring VSCodium, Fastfetch, and Btop](./assets/showcase/ambitopia-showcase-01.png)
 
 <p align="center">
     VSCodium, Fastfetch, Btop
 </p>
 <br>
 
-![Screenshot with yellow wallpaper and showing Micro, Kew, and Standard Notes](./assets/screenshots/ambitopia-yellow-02.png)
+![Screenshot showing split variations and featuring Micro, Kew, and Standard Notes](./assets/showcase/ambitopia-showcase-02.png)
 
 <p align="center">
     Micro, Kew, Standard Notes
 </p>
 <br>
 
-![Screenshot with yellow wallpaper and showing Thunderbird, Cava, and Cmatrix](./assets/screenshots/ambitopia-yellow-03.png)
+![Screenshot showing split variations and featuring Thunderbird, Cava, and Cmatrix](./assets/showcase/ambitopia-showcase-03.png)
 
 <p align="center">
     Thunderbird, Cava, Cmatrix
 </p>
 <br>
 
-![Screenshot with yellow wallpaper and showing Newsboat, and Yazi](./assets/screenshots/ambitopia-yellow-04.png)
+![Screenshot showing split variations and featuring Newsboat, and Yazi](./assets/showcase/ambitopia-showcase-04.png)
 
 <p align="center">
     Newsboat, Yazi
 </p>
 <br>
-
-### Red Variant
-
-![Screenshot with red wallpaper and showing VSCodium, Fastfetch, and Btop](./assets/screenshots/ambitopia-red-01.png)
-
-<p align="center">
-    VSCodium, Fastfetch, Btop
-</p>
-<br>
-
-![Screenshot with red wallpaper and showing Micro, Kew, and Standard Notes](./assets/screenshots/ambitopia-red-02.png)
-
-<p align="center">
-    Micro, Kew, Standard Notes
-</p>
-<br>
-
-![Screenshot with red wallpaper and showing Thunderbird, Cava, and Cmatrix](./assets/screenshots/ambitopia-red-03.png)
-
-<p align="center">
-    Thunderbird, Cava, Cmatrix
-</p>
-
-![Screenshot with red wallpaper and showing Newsboat, and Yazi](./assets/screenshots/ambitopia-red-04.png)
-
-<p align="center">
-    Newsboat, Yazi
-</p>
 
 ## What's Inside
 
