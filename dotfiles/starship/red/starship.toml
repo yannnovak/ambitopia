@@ -43,6 +43,7 @@ $time\
 [ ](fg:#e3e3e3)\
 $fill\
 $git_status\
+$line_break\
 $line_break$character
 """
 
