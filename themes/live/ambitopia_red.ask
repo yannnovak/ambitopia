@@ -54,7 +54,7 @@
 		<GridGuideline Value="#2e2f32" />
 		<PianoBlackKey Value="#030408" />
 		<PianoWhiteKey Value="#e3e3e3" />
-		<RangeDisabled Value="#397979" />
+		<RangeDisabled Value="#454649" />
 		<SceneContrast Value="#2f2925" />
 		<VelocityColor Value="#e95449" />
 		<ViewControlOn Value="#f22613" />
@@ -133,7 +133,7 @@
 		<BrowserSampleWaveform Value="#908478" />
 		<ControlSelectionFrame Value="#7ca893" />
 		<DeactivatedClipHeader Value="#72685edf" />
-		<DeactivatedPotiNeedle Value="#dfdfdf" />
+		<DeactivatedPotiNeedle Value="#030408" />
 		<RetroDisplayScaleText Value="#7ca893" />
 		<TreeColumnHeadControl Value="#e3e3e3" />
 		<GainReductionLineColor Value="#ffad56" />
