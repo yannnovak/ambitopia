@@ -20,6 +20,7 @@ The Ambitopia design system is built around a dark color palette with high-contr
 - <img src="assets/palette/030408.png" width="15" height="15"/> `#030408` - Primary background
 - <img src="assets/palette/17181c.png" width="15" height="15"/> `#17181c` - Secondary background
 - <img src="assets/palette/2e2f32.png" width="15" height="15"/> `#2e2f32` - Tertiary background
+- <img src="assets/palette/454649.png" width="15" height="15"/> `#454649`  - Quaternary background & borders
 
 ### Text
 - <img src="assets/palette/e3e3e3.png" width="15" height="15"/> `#e3e3e3` - Primary text

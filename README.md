@@ -4,6 +4,9 @@
 
 A modular design system of dotfiles and themes for macOS featuring a dark palette with yellow and red accent color variants.
 
+> [!CAUTION]
+> I am working on some aesthetic changes and improvements, because I create screenshots in batches to maintain consistency, some may be inaccurate until all changes are finished and finalized. I will remove this warning when all changes are done.
+
 ## Showcase
 
 ![Screenshot showing split variations and featuring VSCodium, Fastfetch, and Btop](./assets/showcase/ambitopia-showcase-01.png)
@@ -112,13 +115,13 @@ Standalone theme repositories that are part of Ambitopia:
 - [ ] fzf - Fuzzy finder
 
 **Under Consideration**
-- [ ] Blue variant
+- [ ] Purple variant
 - [ ] Did I miss something? Get in touch
 
 ## Inspiration
 
 - [Redfern Jon Barrett](https://vector-bsfa.com/2023/08/07/ambitopia-futures-beyond-the-binary/) - For coining a term that has been so useful for describing where my work lives
-- [Cybrland](https://github.com/scherrer-txt/cybrland) - Recently discovered system that got me to put this all together in a more professional way
+- [Cybrdots](https://github.com/cybrcore/cybrdots) - Recently discovered this project that got me to put this all together in one place and share it
 
 ## Project Structure
 ```

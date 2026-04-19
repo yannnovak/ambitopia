@@ -2,9 +2,6 @@
 
 Making a custom theme for Live has been on my bucket list. Really happy I got this one started, but as I use it I suspect I will refine it further.
 
-> [!CAUTION]
-> This theme is a work in progress; the disabled states are not differentiated enough and will be improved.
-
 ## Preview
 
 ![Screenshot with yellow wallpaper and showing Ableton Live in yellow](../../assets/screenshots/live-yellow.png)
@@ -58,5 +55,5 @@ If Ableton is open, close and reopen the Settings window.
 
 Go to Settings → Theme & Colors and select your Ambitopia theme from the dropdown.
 
-> ![NOTE]
+> [!NOTE]
 > The track and clip color palette cannot be changed, so I left the colors I had been using in the previous theme for the preview. 
