@@ -27,34 +27,11 @@
     --ambitopia-syntax-blue: #89b9e1;
     --ambitopia-syntax-purple: #cd8ffe;
 
-    --dropdown-border-color: var(--ambitopia-background-secondary);
-    --dropdown-background-color: var(--ambitopia-background-secondary);
     --dropdown-shadow: 0 20px 25px -5px rgba(0, 0, 0, .25), 0 8px 10px -6px rgba(0, 0, 0, .25);
-    --modal-background-color: var(--ambitopia-background);
-    --modal-background-variant-color: var(--ambitopia-background-tertiary);
-    --modal-border-color: var(--ambitopia-background);
-    --background-border-color: var(--ambitopia-background-tertiary);
-    --background-color: var(--ambitopia-background);
-    --background-color-tint: ar(--ambitopia-background-background);
-    --surface-background-color: ar(--ambitopia-background-background);
-    --surface-variant-background-color: var(--ambitopia-background-secondary);
-    --surface-variant-active-background-color: var(--ambitopia-background-tertiary);
-    --surface-border-color: var(--ambitopia-background-tertiary);
-    --on-surface-color: hsla(0, 0%, 24%, 0.5);
-    --media-outline-color: rgba(255, 255, 255, 0.15);
     --overlay-icon-shadow: drop-shadow(0 0 8px rgba(0, 0, 0, .35));
-    --error-background-color: var(--ambitopia-color-red);
-    --error-active-background-color: var(--ambitopia-color-red);
-    --on-error-color: var(--ambitopia-primary-text);
     --rich-text-container-color: var(--ambitopia-background-tertiary);
     --rich-text-text-color: var(--ambitopia-primary-text);
     --rich-text-decorations-color: var(--ambitopia-primary-text);
-    --nested-card-background: var(--ambitopia-background-secondary);
-    --nested-card-text: var(--ambitopia-primary-text);
-    --nested-card-border: 1px solid var(--ambitopia-background-secondary);
-    --input-placeholder-color: var(--ambitopia-background-tertiary);
-    --input-background-color: var(--surface-variant-background-color);
-    --on-input-color: var(--ambitopia-primary-text);
 
     --mastodon-accent: var(--ambitopia-accent);
     --mastodon-accent-transparent: var(--ambitopia-accent-transparent);
@@ -74,6 +51,77 @@
     --mastodon-red-light: var(--ambitopia-syntax-red);
     --mastodon-red-reansparent: #e61e5b50;
 }
+
+html {
+    --color-white: #fff;
+    --color-black: #000;
+
+    --color-grey-50:  var(--ambitopia-primary-text);
+    --color-grey-100: var(--ambitopia-primary-text);
+    --color-grey-200: #bbbbbb; 
+    --color-grey-300: #999999;
+    --color-grey-400: var(--ambitopia-background-tertiary);
+    --color-grey-500: #999999;
+    --color-grey-600: var(--ambitopia-background-tertiary);
+    --color-grey-700: var(--ambitopia-background-tertiary);
+    --color-grey-800: var(--ambitopia-background-tertiary);
+    --color-grey-900: var(--ambitopia-background-secondary);
+    --color-grey-950: var(--ambitopia-background);
+
+    --color-indigo-50:  #fffce0;
+    --color-indigo-100: #fff9b8;
+    --color-indigo-200: #fdf08a;
+    --color-indigo-300: var(--ambitopia-syntax-yellow);
+    --color-indigo-400: #fde64a;
+    --color-indigo-500: var(--ambitopia-accent);
+    --color-indigo-600: var(--ambitopia-accent);
+    --color-indigo-700: var(--ambitopia-accent);
+    --color-indigo-800: var(--ambitopia-syntax-yellow);
+    --color-indigo-900: #3a3500;
+    --color-indigo-950: #1e1c05;
+
+    --color-red-50:  #fef2f2;
+    --color-red-100: #ffe2e2;
+    --color-red-200: #ffc9c9;
+    --color-red-300: var(--ambitopia-syntax-red);
+    --color-red-400: var(--ambitopia-syntax-red);
+    --color-red-500: #d4003f;
+    --color-red-600: var(--ambitopia-color-red);
+    --color-red-700: var(--ambitopia-color-red);
+    --color-red-800: var(--ambitopia-color-red);
+    --color-red-900: #3a0a1a;
+    --color-red-950: #1e0610;
+
+    --color-yellow-50:  #fff4ec;
+    --color-yellow-100: #ffe3d0;
+    --color-yellow-200: #ffc9a8;
+    --color-yellow-300: var(--ambitopia-syntax-orange);
+    --color-yellow-400: var(--ambitopia-color-orange);
+    --color-yellow-500: var(--ambitopia-color-orange);
+    --color-yellow-600: var(--ambitopia-color-orange);
+    --color-yellow-700: var(--ambitopia-color-orange);
+    --color-yellow-800: #c5530b;
+    --color-yellow-900: #3a1c05;
+    --color-yellow-950: #1f0f03;
+
+    --color-green-50:  #eef6f6;
+    --color-green-100: #d3e6e6;
+    --color-green-200: #a9cccc;
+    --color-green-300: var(--ambitopia-syntax-green);
+    --color-green-400: var(--ambitopia-color-green);
+    --color-green-500: var(--ambitopia-color-green);
+    --color-green-600: var(--ambitopia-color-green);
+    --color-green-700: #2f6363;
+    --color-green-800: #295656;                       
+    --color-green-900: #133333;                       
+    --color-green-950: #0a1c1c;                       
+
+    --color-text-on-brand-base: var(--ambitopia-background);
+    --color-text-brand-on-inverted: var(--ambitopia-accent);
+}
+
+
+
 @supports not selector(::-webkit-scrollbar) {
     html {
         scrollbar-color: var(--ambitopia-background) var(--background-border-color)
