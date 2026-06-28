@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Ableton MajorVersion="5" MinorVersion="12.0_12049" SchemaChangeCount="3" Creator="LiveThemes" Revision="">
+<Ableton MajorVersion="5" MinorVersion="12.0_12049" SchemaChangeCount="3" Creator="LiveThemes" Revision="lt:b93e7607-268f-41af-acad-cf910dba9a04">
 	<Theme>
 		<n>Ambitopia [yellow]</n>
-		<Poti Value="#030408" />
+		<Poti Value="#2e2f32" />
 		<Alert Value="#c5003c" />
 		<Clip1 Value="#8b7936" />
 		<Clip2 Value="#999565" />
@@ -58,10 +58,10 @@
 		<SceneContrast Value="#2f2925" />
 		<VelocityColor Value="#e95449" />
 		<ViewControlOn Value="#fdf400" />
-		<WaveformColor Value="#1c1714ef" />
+		<WaveformColor Value="#030408" />
 		<AutomationGrid Value="#030408" />
 		<BackgroundClip Value="#7ca893" />
-		<ClipSlotButton Value="#17181c" />
+		<ClipSlotButton Value="#030408" />
 		<PreferencesTab Value="#3c342f" />
 		<RangeEditField Value="#7ca893" />
 		<ScaleAwareness Value="#b595fc" />
@@ -114,7 +114,7 @@
 		<BipolarPotiTriangle Value="#030408" />
 		<BrowserDisabledItem Value="#dfdfdf" />
 		<ControlOnForeground Value="#000000" />
-		<DimmedWaveformColor Value="#72685edf" />
+		<DimmedWaveformColor Value="#17181c" />
 		<MidiNoteMaxVelocity Value="#e95449" />
 		<ModulationMouseOver Value="#55ead4" />
 		<RetroDisplayHandle1 Value="#fcad7b" />
