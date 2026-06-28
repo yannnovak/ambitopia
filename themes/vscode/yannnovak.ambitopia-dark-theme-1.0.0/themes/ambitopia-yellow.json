@@ -3,7 +3,7 @@
 	"type": "dark",
 	"colors": {
         "activityBar.background": "#17181c",
-		"activityBar.border": "#30363d",
+		"activityBar.border": "#2e2f32",
         "activityBar.activeBorder": "#fdf400",
         "activityBarBadge.background": "#fdf400",
         "activityBarBadge.foreground": "#000",
@@ -93,15 +93,15 @@
 		"scrollbar.shadow": "#000",
 
         "sideBar.background": "#010409",
-        "sideBar.border": "#30363d",
+        "sideBar.border": "#2e2f32",
         "sideBarSectionHeader.background": "#010409",
 		"sideBarSectionHeader.border": "#1a1d20",
         "sideBarTitle.foreground": "#bbbbbb",
 
 		"statusBar.background": "#17181c",
         "statusBar.foreground": "#cccece",
-		"statusBar.border": "#30363d",
-		"statusBar.focusBorder": "#30363d00",
+		"statusBar.border": "#2e2f32",
+		"statusBar.focusBorder": "#2e2f3200",
         "statusBar.noFolderBackground": "#17181c",
 		"statusBar.debuggingBackground": "#17181c",
         "statusBarItem.remoteBackground": "#17181c",
@@ -116,7 +116,7 @@
         "titleBar.activeBackground": "#17181c",
 		"titleBar.inactiveBackground": "#17181c",
 		"titleBar.activeForeground": "#dfdfdf",
-		"titleBar.border": "#30363d",
+		"titleBar.border": "#2e2f32",
 		"titleBar.inactiveForeground": "#dfdfdf",
         
 		"widget.shadow": "#000"

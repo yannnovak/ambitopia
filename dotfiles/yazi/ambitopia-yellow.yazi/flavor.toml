@@ -28,7 +28,7 @@ count_selected = { fg = "#030408", bg = "#fdf400" }
 
 # Border
 border_symbol = "│"
-border_style  = { fg = "#fdf400" }
+border_style  = { fg = "#454649" }
 
 [indicator]
 preview = { fg = "#030408", bg = "#fdf400" }
