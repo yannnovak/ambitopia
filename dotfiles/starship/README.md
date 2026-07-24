@@ -22,7 +22,7 @@ I loved making this theme because it was so fiddly and fun to do and makes such 
 ### 00. Before you start
 - Make sure Homebrew is installed ([install here](https://brew.sh))
 - If you skipped the Installation Guide, install Micro and SpaceMono Nerd Font (instructions [here](../../INSTALL.md)) or follow the whole [Installation Guide](../../INSTALL.md)
-- [Starship](https://starship.rs/)
+- [Starship Github](https://github.com/starship/starship)
 
 ### 01. Install Starship
 ```sh
@@ -62,5 +62,5 @@ cp dotfiles/starship/red/starship.toml ~/.config/starship.toml
 The theme will apply to all new terminal sessions.
 
 > [!NOTE]
-> - If you are using a different shell than Zsh, you can find the correct command for step 2 here: [Starship](https://starship.rs/).
+> - If you are using a different shell than Zsh, you can find the correct command for step 2 here: [Starship](https://github.com/starship/starship).
 > - Due to a weird configuration I have, I have to keep NodeJS disabled, if you use NodeJS you can enable it in the theme of your choice.

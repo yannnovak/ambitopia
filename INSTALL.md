@@ -9,7 +9,7 @@ The setup guide for Ambitopia is terminal-centric, which can be scary for some m
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-### 02. Install common dependencies
+### 02. Install Git (version control system)
 ```sh
 brew install git
 ```
@@ -34,7 +34,14 @@ cp nothingfont/fonts/Ndot57-Regular.otf ~/Library/Fonts/
 rm -rf nothingfont
 ```
 
-### 06. Clone this repository
+### 06. Install Barlow Font
+```sh
+git clone --depth 1 https://github.com/jpt/barlow.git
+cp barlow/fonts/ttf/*.ttf ~/Library/Fonts/
+rm -rf barlow
+```
+
+### 07. Clone this repository
 ```sh
 git clone https://github.com/yannnovak/ambitopia.git
 cd ambitopia
@@ -55,7 +62,7 @@ Navigate to `desktop/wallpaper/`, choose your resolution folder, then right-clic
 
 ## Installing Themes
 
-Each application has its own installation guide. Choose the ones you want to theme:
+Each application has its own installation guide. Choose the ones you want to theme (in the order I would do it):
 
 ### Dotfiles
 
@@ -63,11 +70,12 @@ Each application has its own installation guide. Choose the ones you want to the
 - [Micro](dotfiles/micro/README.md) - Text editor
 - [Yazi](dotfiles/yazi/README.md) - Terminal file manager
 - [Starship](dotfiles/starship/README.md) - Terminal prompt
+- [fzf](dotfiles/fzf/README.md) - Fuzzy finder
 - [JankyBorders](dotfiles/borders/README.md) - Window borders
 - [Fastfetch](dotfiles/fastfetch/README.md) - System info
 - [btop](dotfiles/btop/README.md) - System monitor
 - [Kew](dotfiles/kew/README.md) - Terminal music player
-- [Cava](dotfiles/cava/README.md) - Audio visualizer
+- [cava](dotfiles/cava/README.md) - Audio visualizer
 - [Newsboat](dotfiles/newsboat/README.md) - RSS reader
 
 ### Themes
@@ -85,16 +93,10 @@ Each application has its own installation guide. Choose the ones you want to the
 
 ### Widgets
 
-- [Datetime](desktop/widgets/datetime/README.md) - Desktop date/time widget
+- [DateTime](desktop/widgets/datetime/README.md) - Date and time
+- [Status](desktop/widgets/status/README.md) - VPN status and quick links
 
 ## Optional
-
-### Menu Bar
-
-The screenshots use [Ice](https://github.com/jordanbaird/Ice) for menu bar appearance, but I may move to [Bartender](https://www.macbartender.com) when I upgrade to macOS Tahoe.
-```sh
-brew install --cask ice
-```
 
 ### cmatrix (Matrix effect)
 

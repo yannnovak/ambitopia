@@ -1,4 +1,4 @@
-![Ambitopia banner with type that reads Ambitopia, modular design system for macs and beyond.  It flickers between yellow and red.](./assets/banner.gif)
+![Ambitopia banner with type that reads Ambitopia, modular design system for Macs and beyond. It flickers between yellow and red.](./assets/banner.gif)
 
 # Ambitopia
 
@@ -35,15 +35,14 @@ A modular design system of dotfiles and themes for macOS featuring a dark palett
 <p align="center">
     Yellow variant (upper left) and red variant (lower right): Newsboat, Yazi
 </p>
-<br>
 
 ## What's Inside
 
-* **Two color variants** - Yellow for focus work, red for creative work
-* **20 themed applications** - Terminal, editor, browser, system monitor, and more
-* **Modular approach** - Use the full setup or pick individual themes à la carte
-* **Beginner-friendly documentation** - Step-by-step installation guides for macOS users
-* **Cross-platform compatible** - All themes work on other operating systems
+- **Two color variants** - Yellow for focus work, red for creative work
+- **20+ themed applications** - Terminal, editor, browser, system monitor, and more
+- **Modular approach** - Use the full setup or pick individual themes à la carte
+- **Beginner-friendly documentation** - Step-by-step installation guides for macOS users
+- **Cross-platform compatible** - All themes work on other operating systems
 
 ## About Ambitopia
 
@@ -62,6 +61,7 @@ The two color variants serve different sides of my creative practice. Yellow is 
 - [btop](dotfiles/btop/README.md) - System monitor
 - [cava](dotfiles/cava/README.md) - Audio visualizer
 - [Fastfetch](dotfiles/fastfetch/README.md) - System info
+- [fzf](dotfiles/fzf/README.md) - Fuzzy finder
 - [Ghostty](dotfiles/ghostty/README.md) - Terminal emulator
 - [JankyBorders](dotfiles/borders/README.md) - Window borders
 - [Kew](dotfiles/kew/README.md) - Terminal music player
@@ -84,7 +84,9 @@ The two color variants serve different sides of my creative practice. Yellow is 
 - [VSCode/VSCodium](themes/vscode/README.md) - Editor
 
 ### Desktop
-- [DateTime Widget](desktop/widgets/datetime/README.md) - Date and time display
+
+- [DateTime Widget](desktop/widgets/datetime/README.md) - Date and time
+- [Status Widget](desktop/widgets/status/README.md) - VPN status and quick links
 - [Wallpaper](desktop/wallpaper/README.md) - Desktop background images
 
 ## Installation
@@ -112,7 +114,6 @@ Standalone theme repositories that are part of Ambitopia:
 - [ ] Bat - File viewer
 - [ ] eza - File listing
 - [ ] Broot - Directory browser
-- [ ] fzf - Fuzzy finder
 
 **Under Consideration**
 - [ ] Purple variant
@@ -137,12 +138,14 @@ ambitopia/
 │   │   ├── 3456x2234/    # Laptop resolutions
 │   │   └── 5120x2880/    # Desktop resolutions
 │   └── widgets/
-│       └── datetime/     # Date/time widget
+│       ├── datetime/     # Date/time widget
+│       └── status/       # Status widget
 ├── dotfiles/
 │   ├── borders/          # Window borders
 │   ├── btop/             # System monitor
 │   ├── cava/             # Audio visualizer
 │   ├── fastfetch/        # System info
+│   ├── fzf/              # Fuzzy finder
 │   ├── ghostty/          # Terminal emulator
 │   ├── kew/              # Music player
 │   ├── micro/            # Terminal text editor
@@ -162,5 +165,6 @@ ambitopia/
 │   └── vscode/           # Code editor
 ├── PALETTE.md
 ├── INSTALL.md
+├── LICENSE
 └── README.md
 ```

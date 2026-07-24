@@ -1,4 +1,4 @@
-export const refreshFrequency = 10000; // Update every second for real-time clock
+export const refreshFrequency = 10000; // Update every 10 second for real-time clock
 
 export const className = `
     color: #f22613;
@@ -13,10 +13,10 @@ export const className = `
     white-space: nowrap;
 `;
 
-// Use a command that always returns something different to force updates
+// Command that always returns something different to force updates
 export const command = 'date +"%s"'; // Unix timestamp
 
-export const render = (output) => {
+export const render = ({output}) => {
     const now = new Date();
     
     const dayName = now.toLocaleDateString('en-US', { weekday: 'long' });
