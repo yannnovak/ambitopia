@@ -5,35 +5,63 @@
 A modular design system of dotfiles and themes for macOS featuring a dark palette with yellow and red accent color variants.
 
 > [!CAUTION]
-> I am working on some aesthetic changes and improvements, because I create screenshots in batches to maintain consistency, some may be inaccurate until all changes are finished and finalized. I will remove this warning when all changes are done.
+> I am working on some aesthetic changes and improvements, I just recreated all the screenshots, but some descriptions or install instructions may be slightly out of sync.
 
 ## Showcase
 
-![Screenshot showing split variations and featuring VSCodium, Fastfetch, and Btop](./assets/showcase/ambitopia-showcase-01.png)
+![Screenshot showing yellow variation and featuring VSCodium, Fastfetch, and btop](./assets/showcase/ambitopia-showcase-yellow-01.png)
 
 <p align="center">
-    Red variant (upper right) and yellow variant (lower left): VSCodium, Fastfetch, Btop
+    Yellow variant: VSCodium, Fastfetch, btop
 </p>
 <br>
 
-![Screenshot showing split variations and featuring Micro, Kew, and Standard Notes](./assets/showcase/ambitopia-showcase-02.png)
+![Screenshot showing yellow variation and featuring Micro, fzf, and Standard Notes](./assets/showcase/ambitopia-showcase-yellow-02.png)
 
 <p align="center">
-    Yellow variant (upper left) and red variant (lower right): Micro, Kew, Standard Notes
+    Yellow variant: Micro, fzf, Standard Notes
 </p>
 <br>
 
-![Screenshot showing split variations and featuring Thunderbird, Cava, and Cmatrix](./assets/showcase/ambitopia-showcase-03.png)
+![Screenshot showing yellow variation and featuring Thunderbird, kew, and Yazi](./assets/showcase/ambitopia-showcase-yellow-03.png)
 
 <p align="center">
-    Red variant (upper right) and yellow variant (lower left): Thunderbird, Cava, Cmatrix
+    Yellow variant: Thunderbird, kew, Yazi
 </p>
 <br>
 
-![Screenshot showing split variations and featuring Newsboat, and Yazi](./assets/showcase/ambitopia-showcase-04.png)
+![Screenshot showing yellow variation and featuring Vivaldi/Kagi, Newsboat, cmatrix](./assets/showcase/ambitopia-showcase-yellow-04.png)
 
 <p align="center">
-    Yellow variant (upper left) and red variant (lower right): Newsboat, Yazi
+    Yellow variant: Vivaldi/Kagi, Newsboat, cmatrix
+</p>
+<br>
+
+![Screenshot showing red variation and featuring VSCodium, Fastfetch, and btop](./assets/showcase/ambitopia-showcase-red-01.png)
+
+<p align="center">
+    Red variant: VSCodium, Fastfetch, btop
+</p>
+<br>
+
+![Screenshot showing red variation and featuring Micro, fzf, and Standard Notes](./assets/showcase/ambitopia-showcase-red-02.png)
+
+<p align="center">
+    Red variant: Micro, fzf, Standard Notes
+</p>
+<br>
+
+![Screenshot showing red variation and featuring Thunderbird, kew, and Yazi](./assets/showcase/ambitopia-showcase-red-03.png)
+
+<p align="center">
+    Red variant: Thunderbird, kew, Yazi
+</p>
+<br>
+
+![Screenshot showing red variation and featuring Vivaldi/Kagi, Newsboat, cmatrix](./assets/showcase/ambitopia-showcase-red-04.png)
+
+<p align="center">
+    Red variant: Vivaldi/Kagi, Newsboat, cmatrix
 </p>
 
 ## What's Inside
@@ -42,7 +70,7 @@ A modular design system of dotfiles and themes for macOS featuring a dark palett
 - **20+ themed applications** - Terminal, editor, browser, system monitor, and more
 - **Modular approach** - Use the full setup or pick individual themes à la carte
 - **Beginner-friendly documentation** - Step-by-step installation guides for macOS users
-- **Cross-platform compatible** - All themes work on other operating systems
+- **Cross-platform compatible** - Most themes work on other operating systems
 
 ## About Ambitopia
 
@@ -59,7 +87,6 @@ The two color variants serve different sides of my creative practice. Yellow is 
 ### Dotfiles
 
 - [btop](dotfiles/btop/README.md) - System monitor
-- [cava](dotfiles/cava/README.md) - Audio visualizer
 - [Fastfetch](dotfiles/fastfetch/README.md) - System info
 - [fzf](dotfiles/fzf/README.md) - Fuzzy finder
 - [Ghostty](dotfiles/ghostty/README.md) - Terminal emulator
@@ -88,6 +115,7 @@ The two color variants serve different sides of my creative practice. Yellow is 
 - [DateTime Widget](desktop/widgets/datetime/README.md) - Date and time
 - [Status Widget](desktop/widgets/status/README.md) - VPN status and quick links
 - [Wallpaper](desktop/wallpaper/README.md) - Desktop background images
+- [Bloom](desktop/bloom/README.md) - Finder Replacement
 
 ## Installation
 
@@ -134,6 +162,7 @@ ambitopia/
 │   ├── showcase/         # Grouped app compositions
 │   └── thumbnails/       # Wallpaper thumbnails
 ├── desktop/
+│   ├── bloom/            # Finder replacement 
 │   ├── wallpaper/
 │   │   ├── 3456x2234/    # Laptop resolutions
 │   │   └── 5120x2880/    # Desktop resolutions
@@ -143,7 +172,6 @@ ambitopia/
 ├── dotfiles/
 │   ├── borders/          # Window borders
 │   ├── btop/             # System monitor
-│   ├── cava/             # Audio visualizer
 │   ├── fastfetch/        # System info
 │   ├── fzf/              # Fuzzy finder
 │   ├── ghostty/          # Terminal emulator

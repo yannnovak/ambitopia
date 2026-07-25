@@ -31,7 +31,7 @@ trackview.artist=#ffffff
 trackview.album=#ffffff
 trackview.year=#ffffff
 trackview.time=#e3e3e3
-trackview.visualizer=#f22613
+trackview.visualizer=#e3e3e3
 trackview.lyrics=#e3e3e3
 
 # Library View

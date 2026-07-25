@@ -2,4 +2,6 @@
 .vscode
 _assets/
 themes/home-assistant
-desktop/widgets/status
+dotfiles/cava/
+assets/screenshots/cava-red.png
+assets/screenshots/cava-yellow.png

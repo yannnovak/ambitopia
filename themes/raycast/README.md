@@ -1,6 +1,6 @@
 # Raycast
 
-Raycast's theming system provides 12 color values, but will automatically adjust them if it considers them "off brand", I almost did not include it because of this. I created these on a 2-week trial because you must have a paid subscription to use Raycast's Theme Studio and I already canceled because I was just not happy with the results enough to continue to pay.
+Raycast's theming system provides 12 color values, but will automatically adjust them if it considers them "off brand", I almost did not include it because of this. This requires a paid subscription.
 
 ## Preview
 

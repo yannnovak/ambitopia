@@ -75,7 +75,6 @@ Each application has its own installation guide. Choose the ones you want to the
 - [Fastfetch](dotfiles/fastfetch/README.md) - System info
 - [btop](dotfiles/btop/README.md) - System monitor
 - [Kew](dotfiles/kew/README.md) - Terminal music player
-- [cava](dotfiles/cava/README.md) - Audio visualizer
 - [Newsboat](dotfiles/newsboat/README.md) - RSS reader
 
 ### Themes
@@ -95,6 +94,7 @@ Each application has its own installation guide. Choose the ones you want to the
 
 - [DateTime](desktop/widgets/datetime/README.md) - Date and time
 - [Status](desktop/widgets/status/README.md) - VPN status and quick links
+- [Bloom](desktop/bloom/README.md) - Finder Replacement
 
 ## Optional
 
