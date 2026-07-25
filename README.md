@@ -137,6 +137,7 @@ Standalone theme repositories that are part of Ambitopia:
 
 **In Progress**
 - [ ] Home Assistant - Smart home
+- [ ] Cava - Music visualization
 
 **Planned**
 - [ ] Bat - File viewer
